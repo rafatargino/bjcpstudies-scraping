@@ -1,0 +1,33 @@
+# Ambiente virtual
+venv/
+.env
+
+# Arquivos Python cacheados
+__pycache__/
+*.py[cod]
+
+# Compiled files
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Arquivos de configuração do IDE
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Outros arquivos comuns
+*.bak
+*.tmp
+*.swp
+*.swo
