@@ -1,5 +1,24 @@
 import requests
 from bs4 import BeautifulSoup
+import re
+
+
+def extract_initial_number(concatenated_text, ignore_digits):
+    # Usar expressão regular para encontrar a parte inicial do número
+    # Cria a parte da expressão regular para ignorar 1 ou 2 dígitos no final
+    if ignore_digits == 1:
+        pattern = r'(\d{1,2}(?:\.\d+)?)(?=\d{1}$)'  # Ignora 1 dígito
+    elif ignore_digits == 2:
+        pattern = r'(\d{1,2}(?:\.\d+)?)(?=\d{2}$)'  # Ignora 2 dígitos
+    else:
+        raise ValueError("ignore_digits deve ser 1 ou 2.")
+
+    # Usar a expressão regular para encontrar a parte inicial do número
+    match = re.match(pattern, concatenated_text)
+    if match:
+        return match.group(1)  # Retorna o primeiro grupo que corresponde ao número
+
+    return None  # Retorna None se não houver correspondência
 
 
 def get_beer_info(url):
@@ -35,27 +54,46 @@ def get_beer_info(url):
                 beer_info["Brewery"] = divs[8].get_text(strip=True).split("Brewery")[1].strip()
                 beer_info["Beer"] = divs[9].get_text(strip=True).split("Beer Name")[1].strip()
                 beer_info["Special ingredients"] = divs[10].get_text(strip=True).split("Special ingredients")[1].strip()    
-                beer_info["Bottle Inspection"] = divs[11].get_text(strip=True).split("Bottle Inspection")[1].strip()
+                beer_info["Bottle Inspection"] = divs[11].get_text(strip=True).split("etc.")[1].strip()
                 beer_info["Aroma"] = divs[36].get_text(strip=True)
+                beer_info["Aroma Score"] = extract_initial_number(divs[33].get_text(strip=True),2)
                 beer_info["Appearance"] = divs[44].get_text(strip=True)
+                beer_info["Appearance Score"] = extract_initial_number(divs[41].get_text(strip=True),1)
                 beer_info["Flavor"] = divs[53].get_text(strip=True)
+                beer_info["Flavor Score"] = extract_initial_number(divs[50].get_text(strip=True),2)
                 beer_info["Mouthfeel"] = divs[61].get_text(strip=True)
-                beer_info["Impression"] = divs[69].get_text(strip=True)
+                beer_info["Mouthfeel Score"] = extract_initial_number(divs[58].get_text(strip=True),1)
+                beer_info["Overall Impression"] = divs[69].get_text(strip=True)
+                beer_info["Overall Impression Score"] = extract_initial_number(divs[66].get_text(strip=True),2)
+                beer_info["Total Score"] = extract_initial_number(divs[72].get_text(strip=True),2)
                 beer_info["Stylistic Accuracy"] = divs[83].get_text(strip=True)
                 beer_info["Technical Merit"] = divs[90].get_text(strip=True)
                 beer_info["Intangibles"] = divs[97].get_text(strip=True)
+
+                # Captura dos valores das barras de progresso
+                progress_bars = container.find_all('div', class_='progress-bar')
+                for progress in progress_bars:
+                    # Obter o valor do atributo aria-valuenow
+                    value = progress['aria-valuenow']
+                    # Armazenar o valor correspondente à barra
+                    if "Stylistic Accuracy" in progress.find_previous('p').get_text(strip=True):
+                        beer_info["Stylistic Accuracy"] = value
+                    elif "Technical Merit" in progress.find_previous('p').get_text(strip=True):
+                        beer_info["Technical Merit"] = value
+                    elif "Intangibles" in progress.find_previous('p').get_text(strip=True):
+                        beer_info["Intangibles"] = value
+
             else:
                 print("Não há divs suficientes para capturar as informações necessárias.")
                 return None
             
-            return beer_info
-        
             # Exibir os resultados armazenados no dicionário
             # print("Informações da Cerveja:")
             # for key, value in beer_info.items():
             #     print(f"{key}: {value}")
-
-
+            
+            return beer_info
+        
             # ------------------------------------------------------------
             # Código antigo para capturar as informações - loop em divs
             # Iterar pelos divs encontrados
