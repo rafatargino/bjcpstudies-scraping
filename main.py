@@ -1,6 +1,7 @@
 import json
 import time
 import random
+import os
 from get_beer_urls import get_beer_urls
 from get_beer_info import get_beer_info
 
@@ -25,7 +26,10 @@ if __name__ == "__main__":
 
     # URL base da tabela de avaliações
     #base_url = "https://www.scoresheets.cc/thomazpp"
+    #base_url = "https://www.scoresheets.cc/gabriela.a.lando"
     base_url = "https://www.scoresheets.cc/henriqueboaventura"
+    #base_url = "https://www.scoresheets.cc/giraia"
+    
 
     # Obter todas as URLs de avaliações
     beer_urls = get_beer_urls(base_url)
@@ -61,19 +65,3 @@ if __name__ == "__main__":
     save_data_to_json(all_beer_info, 'beer_info.json')
 
     print("\nAs informações das cervejas foram salvas em 'beer_info.json'.")
-
-
-
-# url = "https://www.scoresheets.cc/thomazpp"
-# #
-# #https://www.scoresheets.cc/giraia
-# #url = "https://www.scoresheets.cc/thomazpp"
-# #https://www.scoresheets.cc/henriqueboaventura
-# #https://www.scoresheets.cc/giraia
-# url = 
-# # Envie uma solicitação GET para a página
-# response = requests.get(url)
-# # Verifique se a solicitação foi bem-sucedida
-# if response.status_code == 200:
-# else:
-#     print(f"Falha ao acessar a página: {response.status_code}")
