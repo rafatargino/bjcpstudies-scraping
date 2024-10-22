@@ -19,6 +19,10 @@ def get_beer_urls(base_url):
         # Analisar o conteúdo da página
         soup = BeautifulSoup(response.text, 'html.parser')
 
+ 
+        # with open('output.html', 'w', encoding='utf-8') as f:
+        #     f.write(soup.prettify())
+
         # Encontrar a tabela de avaliações
         table = soup.find('table')  # Ajuste conforme necessário
 

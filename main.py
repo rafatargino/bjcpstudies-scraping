@@ -30,9 +30,9 @@ if __name__ == "__main__":
     base_url = "https://www.scoresheets.cc/henriqueboaventura"
     #base_url = "https://www.scoresheets.cc/giraia"
     
-
-    # Obter todas as URLs de avaliações
+    #base_url = "https://www.scoresheets.cc/search?q=GEBJCPACERVA"
     beer_urls = get_beer_urls(base_url)
+        
     print(beer_urls)
     #teste para uma cerveja apenas:
     #beer_urls = ["https://www.scoresheets.cc/thomazpp/scoresheet/5616-hoegaarden-hoegaarden"]
@@ -61,7 +61,11 @@ if __name__ == "__main__":
         print(f"Pausando por {pause_time} segundos...")
         time.sleep(pause_time)  # Ajuste o tempo conforme necessário
     
-    # Salvar os resultados em um arquivo JSON
-    save_data_to_json(all_beer_info, 'beer_info.json')
+    if total_beers > 0:
+        # Salvar os resultados em um arquivo JSON
+        save_data_to_json(all_beer_info, 'beer_info.json')
+        print("\nAs informações das cervejas foram salvas em 'beer_info.json'.")
+    else:
+        print("\nNenhum cerveja encontrada...")
 
-    print("\nAs informações das cervejas foram salvas em 'beer_info.json'.")
+    
