@@ -1,16 +1,27 @@
 import requests
 from bs4 import BeautifulSoup
 import re 
+from utils import SearchType
 
 
-def get_beer_urls(base_url):
+def get_beer_urls(base_url, type):
     urls = []
     page = 1
 
+
+
     while True:
         # Criar a URL da página atual
-        url = f"{base_url}?page={page}"
+        if type == SearchType.USER:
+            url = f"{base_url}?page={page}" 
+        elif type == SearchType.KEYWORD:
+            url = f"https://www.scoresheets.cc/search?q={base_url}&page={page}"
+        else:
+            print("Tipo de pesquisa inválido.")
+            break
+        
         response = requests.get(url)
+
 
         if response.status_code != 200:
             print(f"Falha ao acessar a página: {response.status_code}")
@@ -20,8 +31,8 @@ def get_beer_urls(base_url):
         soup = BeautifulSoup(response.text, 'html.parser')
 
  
-        # with open('output.html', 'w', encoding='utf-8') as f:
-        #     f.write(soup.prettify())
+        with open('output.html', 'w', encoding='utf-8') as f:
+             f.write(soup.prettify())
 
         # Encontrar a tabela de avaliações
         table = soup.find('table')  # Ajuste conforme necessário

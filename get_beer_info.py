@@ -21,7 +21,7 @@ def extract_initial_number(concatenated_text, ignore_digits):
     return None  # Retorna None se não houver correspondência
 
 
-def get_beer_info(url):
+def get_beer_info(url, tag):
     # Envie uma solicitação GET para a página
     response = requests.get(url)
 
@@ -40,7 +40,7 @@ def get_beer_info(url):
             #print(divs)
 
             # Contar quantos divs foram encontrados
-            div_count = len(divs)
+            #div_count = len(divs)
             #print(f"Número de <div> encontrados: {div_count}")
 
             # Inicializar um dicionário para armazenar os dados
@@ -83,6 +83,11 @@ def get_beer_info(url):
                     elif "Intangibles" in progress.find_previous('p').get_text(strip=True):
                         beer_info["Intangibles"] = value
 
+                if tag:
+                    beer_info["Tag"] = tag 
+                    
+                print(beer_info)
+
             else:
                 print("Não há divs suficientes para capturar as informações necessárias.")
                 return None
@@ -93,54 +98,7 @@ def get_beer_info(url):
             #     print(f"{key}: {value}")
             
             return beer_info
-        
-            # ------------------------------------------------------------
-            # Código antigo para capturar as informações - loop em divs
-            # Iterar pelos divs encontrados
-            # for index, div in enumerate(divs):
-            #     texto = div.get_text(strip=True)
-                                    
-            #     # Salvar o texto em um arquivo
-            #     # with open("beer_info.txt", "a", encoding="utf-8") as file:
-            #     #     file.write(str(index) + "\n")  # Adiciona o texto ao arquivo
-            #     #     file.write(texto + "\n")  # Adiciona o texto ao arquivo
-
-            #     # Verificar a posição do índice para capturar as informações desejadas
-            #     if index == 5:  # 5ª iteração para Judge Name
-            #         captura = texto.split("Judge Name")[1].strip()
-            #         beer_info["judge name"] = captura
-            #     elif index == 7:  # 7ª iteração para Style
-            #         captura = texto.split("Style")[1].strip()
-            #         beer_info["style"] = captura
-            #     elif index == 8:  # 8ª iteração para Brewery
-            #         captura = texto.split("Brewery Name")[1].strip()
-            #         beer_info["brewery"] = captura
-            #     elif index == 9:  
-            #         captura = texto.split("Beer Name")[1].strip()
-            #         beer_info["beer"] = captura
-            #     elif index == 10:  
-            #         captura = texto.split("Special ingredients")[1].strip()
-            #         beer_info["ingredients"] = captura
-            #     elif index == 11:  
-            #         captura = texto.split("Bottle InspectionAppropriate size, cap, fill level, label removal, etc.")[1].strip()
-            #         beer_info["bottle"] = captura
-            #     elif index == 36:  
-            #         beer_info["aroma"] = texto                                                
-            #     elif index == 44:  
-            #         beer_info["appearance"] = texto                                                
-            #     elif index == 53:  
-            #         beer_info["flavor"] = texto                                                
-            #     elif index == 61:  
-            #         beer_info["mouthfeel"] = texto                                                
-            #     elif index == 69:  
-            #         beer_info["impression"] = texto
-            #     elif index == 83:  
-            #         beer_info["stylistic accuracy"] = texto                                                
-            #     elif index == 90:  
-            #         beer_info["technical Merit"] = texto                                                
-            #     elif index == 97:  
-            #         beer_info["intangibles"] = texto                                                                                                                                
-
+    
         else:
             print("Container não encontrado.")
             return None

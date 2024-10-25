@@ -1,37 +1,24 @@
-import json
 import time
 import random
-import os
 from get_beer_urls import get_beer_urls
 from get_beer_info import get_beer_info
-
-def load_existing_data(filename):
-    """Carrega dados existentes de um arquivo JSON."""
-    if os.path.exists(filename):
-        with open(filename, mode='r', encoding='utf-8') as json_file:
-            return json.load(json_file)
-    return []  # Retorna uma lista vazia se o arquivo não existir
-
-def save_data_to_json(data, filename):
-    """Salva dados em um arquivo JSON, adicionando novos itens ao existente."""
-    existing_data = load_existing_data(filename)  # Carrega dados existentes
-    existing_data.extend(data)  # Adiciona novos dados à lista existente
-
-    with open(filename, mode='w', encoding='utf-8') as json_file:
-        json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
+from utils import save_data_to_json, SearchType
 
 # ------------------------------------------------------
-
 if __name__ == "__main__":
 
     # URL base da tabela de avaliações
     #base_url = "https://www.scoresheets.cc/thomazpp"
     #base_url = "https://www.scoresheets.cc/gabriela.a.lando"
-    base_url = "https://www.scoresheets.cc/henriqueboaventura"
+    #base_url = "https://www.scoresheets.cc/henriqueboaventura"
     #base_url = "https://www.scoresheets.cc/giraia"
+    #type = SearchType.USER
+    #tag = ""
     
-    #base_url = "https://www.scoresheets.cc/search?q=GEBJCPACERVA"
-    beer_urls = get_beer_urls(base_url)
+    base_url = "GE+BJCP"
+    tag = "GEBJCPACERVA"
+    type = SearchType.KEYWORD
+    beer_urls = get_beer_urls(base_url, type)
         
     print(beer_urls)
     #teste para uma cerveja apenas:
@@ -46,7 +33,7 @@ if __name__ == "__main__":
     # Iterar sobre as URLs e chamar a função de scraping
     for index, url in enumerate(beer_urls, start=1):  # Usar enumerate para obter o índice
         print(f"\nCapturando Cerveja {index}/{total_beers}: {url}")
-        beer_info = get_beer_info(url)
+        beer_info = get_beer_info(url, tag)
         
         if beer_info:
             all_beer_info.append(beer_info)
