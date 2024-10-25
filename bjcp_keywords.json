@@ -1,0 +1,82 @@
+[
+    {
+        "1A. American Light Lager": {
+            "aroma": {
+                "malte": "malte-baixo, cereal",
+                "lúpulo": "lúpulo-baixo, floral",
+                "ésteres": "ésteres-baixo",
+                "outros aromáticos": "outros-aromáticos-baixo"
+            },
+            "aparência": {
+                "cor": "cor-palha-clara",
+                "limpidez": "limpidez-clara",
+                "espuma": "espuma-baixa, branca"
+            },
+            "sabor": {
+                "lúpulo": "lúpulo-baixo, amargor-baixo",
+                "malte": "malte-baixo, cereal",
+                "ésteres": "ésteres-baixo",
+                "equilíbrio": "equilíbrio-malto-lúpulo",
+                "retrogosto": "retrogosto-ligeiro"
+            },
+            "sensação de boca": {
+                "corpo": "corpo-leve",
+                "carbonatação": "carbonatação-média-alta",
+                "calor": "calor-baixo",
+                "cremosidade": "cremosidade-baixa",
+                "adstringência": "adstringência-baixa"
+            },
+            "impressão geral": {
+                "malte": "malte-leve",
+                "lúpulo": "lúpulo-leve",
+                "ésteres": "ésteres-leves"
+            },
+            "comparação de estilos": {
+                "comparação1": "mais leve que American Lager",
+                "comparação2": "menos corpo que Pilsner",
+                "comparação3": "menos amargo que American Lager",
+                "comparação4": "mais refrescante que Helles"
+            }
+        }
+    },
+    {
+        "1B. American Lager": {
+            "aroma": {
+                "malte": "malte-baixo, cereal",
+                "lúpulo": "lúpulo-baixo, floral",
+                "ésteres": "ésteres-baixo, frutado",
+                "outros aromáticos": "outros-aromáticos-baixo"
+            },
+            "aparência": {
+                "cor": "cor-amarelo-claro, dourado",
+                "limpidez": "limpidez-clara",
+                "espuma": "espuma-baixa, branca"
+            },
+            "sabor": {
+                "lúpulo": "lúpulo-baixo, amargor-baixo",
+                "malte": "malte-baixo, cereal",
+                "ésteres": "ésteres-baixo, frutado",
+                "equilíbrio": "equilíbrio-médio",
+                "retrogosto": "retrogosto-ligeiro, seco"
+            },
+            "sensação de boca": {
+                "corpo": "corpo-leve",
+                "carbonatação": "carbonatação-média-alta",
+                "calor": "calor-baixo",
+                "cremosidade": "cremosidade-baixa",
+                "adstringência": "adstringência-baixa"
+            },
+            "impressão geral": {
+                "malte": "malte-baixo, limpo",
+                "lúpulo": "lúpulo-baixo, refrescante",
+                "ésteres": "ésteres-baixo, neutro"
+            },
+            "comparação de estilos": {
+                "comparação1": "mais leve que uma Pilsner",
+                "comparação2": "menos amarga que uma Pale Ale",
+                "comparação3": "mais refrescante que uma Amber Lager",
+                "comparação4": "semelhante a uma Helles"
+            }
+        }
+    }
+]

@@ -1,0 +1,418 @@
+{
+  "1A. American Light Lager": {
+    "Aroma": {
+      "lúpulo": "lúpulo-baixo, floral, herbáceo",
+      "malte": "malte-baixo, cereal",
+      "ésteres": "ésteres-baixo",
+      "outros aromáticos": "outros-aromáticos-baixo"
+    },
+    "Aparência": {
+      "cor": "cor-amarelo-claro",
+      "limpidez": "limpidez-clara",
+      "espuma": "espuma-baixa"
+    },
+    "Sabor": {
+      "lúpulo": "lúpulo-baixo, herbal",
+      "malte": "malte-baixo, cereal",
+      "ésteres": "ésteres-baixo",
+      "equilíbrio": "equilíbrio-malto-lúpulo",
+      "retrogosto": "retrogosto-ligeiro"
+    },
+    "Sensação de boca": {
+      "corpo": "corpo-leve",
+      "carbonatação": "carbonatação-média-alta",
+      "calor": "calor-baixo",
+      "cremosidade": "cremosidade-baixa",
+      "adstringência": "adstringência-baixa"
+    },
+    "Impressão geral": {
+      "malte": "malte-leve",
+      "lúpulo": "lúpulo-leve",
+      "ésteres": "ésteres-baixo"
+    }
+  },
+  "1B. American Lager": {
+    "Aroma": {
+      "lúpulo": "lúpulo-baixo-médio, floral, herbáceo",
+      "malte": "malte-médio, cereal",
+      "ésteres": "ésteres-baixo",
+      "outros aromáticos": "outros-aromáticos-baixo"
+    },
+    "Aparência": {
+      "cor": "cor-amarelo-dourado",
+      "limpidez": "limpidez-clara",
+      "espuma": "espuma-média"
+    },
+    "Sabor": {
+      "lúpulo": "lúpulo-baixo-médio, herbal",
+      "malte": "malte-médio, cereal",
+      "ésteres": "ésteres-baixo",
+      "equilíbrio": "equilíbrio-malto-lúpulo",
+      "retrogosto": "retrogosto-ligeiro"
+    },
+    "Sensação de boca": {
+      "corpo": "corpo-médio",
+      "carbonatação": "carbonatação-média",
+      "calor": "calor-baixo",
+      "cremosidade": "cremosidade-baixa",
+      "adstringência": "adstringência-baixa"
+    },
+    "Impressão geral": {
+      "malte": "malte-médio",
+      "lúpulo": "lúpulo-médio",
+      "ésteres": "ésteres-baixo"
+    }
+  },
+  "1C. Cream Ale": {
+    "Aroma": {
+      "lúpulo": "lúpulo-baixo, floral",
+      "malte": "malte-médio, cereal, doce",
+      "ésteres": "ésteres-baixo-médio, frutado",
+      "outros aromáticos": "outros-aromáticos-baixo"
+    },
+    "Aparência": {
+      "cor": "cor-amarelo-dourado",
+      "limpidez": "limpidez-clara",
+      "espuma": "espuma-média"
+    },
+    "Sabor": {
+      "lúpulo": "lúpulo-baixo, herbal",
+      "malte": "malte-médio, cereal, doce",
+      "ésteres": "ésteres-baixo-médio, frutado",
+      "equilíbrio": "equilíbrio-malto-lúpulo",
+      "retrogosto": "retrogosto-ligeiro"
+    },
+    "Sensação de boca": {
+      "corpo": "corpo-médio",
+      "carbonatação": "carbonatação-média",
+      "calor": "calor-baixo",
+      "cremosidade": "cremosidade-média",
+      "adstringência": "adstringência-baixa"
+    },
+    "Impressão geral": {
+      "malte": "malte-médio",
+      "lúpulo": "lúpulo-baixo",
+      "ésteres": "ésteres-baixo-médio"
+    }
+  },
+  "1D. American Wheat Beer": {
+    "Aroma": {
+      "lúpulo": "lúpulo-baixo, floral, especiarias",
+      "malte": "malte-médio, cereal",
+      "ésteres": "ésteres-baixo-médio, frutado",
+      "outros aromáticos": "outros-aromáticos-baixo"
+    },
+    "Aparência": {
+      "cor": "cor-amarelo-dourado",
+      "limpidez": "limpidez-clara",
+      "espuma": "espuma-média"
+    },
+    "Sabor": {
+      "lúpulo": "lúpulo-baixo, herbal",
+      "malte": "malte-médio, cereal",
+      "ésteres": "ésteres-baixo-médio, frutado",
+      "equilíbrio": "equilíbrio-malto-lúpulo",
+      "retrogosto": "retrogosto-ligeiro"
+    },
+    "Sensação de boca": {
+      "corpo": "corpo-médio",
+      "carbonatação": "carbonatação-média",
+      "calor": "calor-baixo",
+      "cremosidade": "cremosidade-média",
+      "adstringência": "adstringência-baixa"
+    },
+    "Impressão geral": {
+      "malte": "malte-médio",
+      "lúpulo": "lúpulo-baixo",
+      "ésteres": "ésteres-baixo-médio"
+    }
+  },
+  "2A. International Pale Lager": {
+    "Aroma": {
+      "lúpulo": "lúpulo-médio, floral, cítrico",
+      "malte": "malte-baixo-médio, cereal",
+      "ésteres": "ésteres-baixo",
+      "outros aromáticos": "outros-aromáticos-baixo"
+    },
+    "Aparência": {
+      "cor": "cor-amarelo-dourado",
+      "limpidez": "limpidez-clara",
+      "espuma": "espuma-média"
+    },
+    "Sabor": {
+      "lúpulo": "lúpulo-médio, cítrico",
+      "malte": "malte-baixo-médio, cereal",
+      "ésteres": "ésteres-baixo",
+      "equilíbrio": "equilíbrio-malto-lúpulo",
+      "retrogosto": "retrogosto-ligeiro"
+    },
+    "Sensação de boca": {
+      "corpo": "corpo-médio",
+      "carbonatação": "carbonatação-média",
+      "calor": "calor-baixo",
+      "cremosidade": "cremosidade-baixa",
+      "adstringência": "adstringência-baixa"
+    },
+    "Impressão geral": {
+      "malte": "malte-baixo-médio",
+      "lúpulo": "lúpulo-médio",
+      "ésteres": "ésteres-baixo"
+    }
+  },
+  "2B. International Amber Lager": {
+    "Aroma": {
+      "lúpulo": "lúpulo-baixo-médio, floral, herbáceo",
+      "malte": "malte-médio, caramelo",
+      "ésteres": "ésteres-baixo",
+      "outros aromáticos": "outros-aromáticos-baixo"
+    },
+    "Aparência": {
+      "cor": "cor Âmbar",
+      "limpidez": "limpidez-clara",
+      "espuma": "espuma-média"
+    },
+    "Sabor": {
+      "lúpulo": "lúpulo-baixo-médio, herbal",
+      "malte": "malte-médio, caramelo",
+      "ésteres": "ésteres-baixo",
+      "equilíbrio": "equilíbrio-malto-lúpulo",
+      "retrogosto": "retrogosto-ligeiro"
+    },
+    "Sensação de boca": {
+      "corpo": "corpo-médio",
+      "carbonatação": "carbonatação-média",
+      "calor": "calor-baixo",
+      "cremosidade": "cremosidade-baixa",
+      "adstringência": "adstringência-baixa"
+    },
+    "Impressão geral": {
+      "malte": "malte-médio",
+      "lúpulo": "lúpulo-baixo-médio",
+      "ésteres": "ésteres-baixo"
+    }
+  },
+  "2C. International Dark Lager": {
+    "Aroma": {
+      "lúpulo": "lúpulo-baixo, herbal",
+      "malte": "malte-médio-alto, torrado, caramelo",
+      "ésteres": "ésteres-baixo",
+      "outros aromáticos": "outros-aromáticos-baixo"
+    },
+    "Aparência": {
+      "cor": "cor-marrom-escuro",
+      "limpidez": "limpidez-clara",
+      "espuma": "espuma-baixa"
+    },
+    "Sabor": {
+      "lúpulo": "lúpulo-baixo, herbal",
+      "malte": "malte-médio-alto, torrado, caramelo",
+      "ésteres": "ésteres-baixo",
+      "equilíbrio": "equilíbrio-malto-lúpulo",
+      "retrogosto": "retrogosto-ligeiro"
+    },
+    "Sensação de boca": {
+      "corpo": "corpo-médio",
+      "carbonatação": "carbonatação-média",
+      "calor": "calor-baixo",
+      "cremosidade": "cremosidade-baixa",
+      "adstringência": "adstringência-baixa"
+    },
+    "Impressão geral": {
+      "malte": "malte-médio-alto",
+      "lúpulo": "lúpulo-baixo",
+      "ésteres": "ésteres-baixo"
+    }
+  },
+  "21A_American_IPA": {
+    "aroma": {
+      "lúpulo": "lúpulo-proeminente, cítrico, floral, resinoso, pinho",
+      "malte": "malte-baixo, caramelo-baixo",
+      "ésteres": "ésteres-baixo, frutado",
+      "outros_aromáticos": "outros-aromáticos-baixo"
+    },
+    "aparência": {
+      "cor": "âmbar-dourado",
+      "limpidez": "limpo",
+      "espuma": "espuma-média-alta, persistente"
+    },
+    "sabor": {
+      "lúpulo": "lúpulo-proeminente, cítrico, resinoso",
+      "malte": "malte-baixo, caramelo-baixo-médio",
+      "ésteres": "ésteres-baixo, frutado",
+      "equilíbrio": "equilíbrio-amargo",
+      "retrogosto": "retrogosto-amargo"
+    },
+    "sensação_de_boca": {
+      "corpo": "corpo-médio",
+      "carbonatação": "carbonatação-média-alta",
+      "calor": "calor-baixo",
+      "cremosidade": "cremosidade-baixa",
+      "adstringência": "adstringência-baixa"
+    },
+    "impressão_geral": {
+      "malte": "malte-baixo",
+      "lúpulo": "lúpulo-proeminente",
+      "ésteres": "ésteres-baixo"
+    }
+  },
+  "21B_Specialty_IPA_Belgian_IPA": {
+    "aroma": {
+      "lúpulo": "lúpulo-médio, floral, cítrico",
+      "malte": "malte-baixo, caramelo-baixo",
+      "ésteres": "ésteres-médio, frutado, especiarias",
+      "outros_aromáticos": "outros-aromáticos-baixo"
+    },
+    "aparência": {
+      "cor": "âmbar-dourado",
+      "limpidez": "limpo",
+      "espuma": "espuma-média, persistente"
+    },
+    "sabor": {
+      "lúpulo": "lúpulo-médio, cítrico, floral",
+      "malte": "malte-baixo, caramelo-baixo-médio",
+      "ésteres": "ésteres-médio, frutado, especiarias",
+      "equilíbrio": "equilíbrio-amargo",
+      "retrogosto": "retrogosto-amargo"
+    },
+    "sensação_de_boca": {
+      "corpo": "corpo-médio",
+      "carbonatação": "carbonatação-média-alta",
+      "calor": "calor-baixo",
+      "cremosidade": "cremosidade-baixa",
+      "adstringência": "adstringência-baixa"
+    },
+    "impressão_geral": {
+      "malte": "malte-baixo",
+      "lúpulo": "lúpulo-médio",
+      "ésteres": "ésteres-médio"
+    }
+  },
+  "21B_Specialty_IPA_Black_IPA": {
+    "aroma": {
+      "lúpulo": "lúpulo-médio, resinoso, cítrico",
+      "malte": "malte-médio, torrado-baixo",
+      "ésteres": "ésteres-baixo, frutado",
+      "outros_aromáticos": "outros-aromáticos-baixo"
+    },
+    "aparência": {
+      "cor": "preto-escuro",
+      "limpidez": "limpo",
+      "espuma": "espuma-média, persistente"
+    },
+    "sabor": {
+      "lúpulo": "lúpulo-médio, resinoso, amargo",
+      "malte": "malte-médio, torrado-baixo, chocolate-baixo",
+      "ésteres": "ésteres-baixo, frutado",
+      "equilíbrio": "equilíbrio-amargo",
+      "retrogosto": "retrogosto-amargo"
+    },
+    "sensação_de_boca": {
+      "corpo": "corpo-médio",
+      "carbonatação": "carbonatação-média",
+      "calor": "calor-baixo",
+      "cremosidade": "cremosidade-baixa",
+      "adstringência": "adstringência-média"
+    },
+    "impressão_geral": {
+      "malte": "malte-médio",
+      "lúpulo": "lúpulo-médio",
+      "ésteres": "ésteres-baixo"
+    }
+  },
+  "21B_Specialty_IPA_Brown_IPA": {
+    "aroma": {
+      "lúpulo": "lúpulo-médio, resinoso, cítrico",
+      "malte": "malte-médio, caramelo-médio",
+      "ésteres": "ésteres-baixo, frutado",
+      "outros_aromáticos": "outros-aromáticos-baixo"
+    },
+    "aparência": {
+      "cor": "marrom-escuro",
+      "limpidez": "limpo",
+      "espuma": "espuma-média, persistente"
+    },
+    "sabor": {
+      "lúpulo": "lúpulo-médio, resinoso, amargo",
+      "malte": "malte-médio, caramelo-médio, toffee-baixo",
+      "ésteres": "ésteres-baixo, frutado",
+      "equilíbrio": "equilíbrio-amargo",
+      "retrogosto": "retrogosto-amargo"
+    },
+    "sensação_de_boca": {
+      "corpo": "corpo-médio",
+      "carbonatação": "carbonatação-média",
+      "calor": "calor-baixo",
+      "cremosidade": "cremosidade-baixa",
+      "adstringência": "adstringência-baixa"
+    },
+    "impressão_geral": {
+      "malte": "malte-médio",
+      "lúpulo": "lúpulo-médio",
+      "ésteres": "ésteres-baixo"
+    }
+  },
+  "21B_Specialty_IPA_Rye_IPA": {
+    "aroma": {
+      "lúpulo": "lúpulo-médio, resinoso, cítrico",
+      "malte": "malte-baixo, centeio-médio",
+      "ésteres": "ésteres-baixo, frutado",
+      "outros_aromáticos": "outros-aromáticos-baixo"
+    },
+    "aparência": {
+      "cor": "âmbar-dourado",
+      "limpidez": "limpo",
+      "espuma": "espuma-média, persistente"
+    },
+    "sabor": {
+      "lúpulo": "lúpulo-médio, resinoso, amargo",
+      "malte": "malte-baixo, centeio-médio, caramelo-baixo",
+      "ésteres": "ésteres-baixo, frutado",
+      "equilíbrio": "equilíbrio-amargo",
+      "retrogosto": "retrogosto-amargo"
+    },
+    "sensação_de_boca": {
+      "corpo": "corpo-médio",
+      "carbonatação": "carbonatação-média",
+      "calor": "calor-baixo",
+      "cremosidade": "cremosidade-baixa",
+      "adstringência": "adstringência-média"
+    },
+    "impressão_geral": {
+      "malte": "malte-baixo",
+      "lúpulo": "lúpulo-médio",
+      "ésteres": "ésteres-baixo"
+    }
+  },
+  "21B_Specialty_IPA_White_IPA": {
+    "aroma": {
+      "lúpulo": "lúpulo-médio, cítrico, floral",
+      "malte": "malte-baixo, trigo-médio",
+      "ésteres": "ésteres-médio, frutado",
+      "outros_aromáticos": "outros-aromáticos-baixo"
+    },
+    "aparência": {
+      "cor": "dourado-claro",
+      "limpidez": "turva",
+      "espuma": "espuma-média-alta, persistente"
+    },
+    "sabor": {
+      "lúpulo": "lúpulo-médio, cítrico, floral",
+      "malte": "malte-baixo, trigo-médio, caramelo-baixo",
+      "ésteres": "ésteres-médio, frutado",
+      "equilíbrio": "equilíbrio-amargo",
+      "retrogosto": "retrogosto-amargo"
+    },
+    "sensação_de_boca": {
+      "corpo": "corpo-médio",
+      "carbonatação": "carbonatação-média-alta",
+      "calor": "calor-baixo",
+      "cremosidade": "cremosidade-baixa",
+      "adstringência": "adstringência-baixa"
+    },
+    "impressão_geral": {
+      "malte": "malte-baixo",
+      "lúpulo": "lúpulo-médio",
+      "ésteres": "ésteres-médio"
+    }
+  }
+}

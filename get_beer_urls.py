@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import re 
-from utils import SearchType
+from utils.utils import SearchType
 
 
 def get_beer_urls(base_url, type):

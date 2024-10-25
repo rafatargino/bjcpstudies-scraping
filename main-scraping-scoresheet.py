@@ -2,7 +2,7 @@ import time
 import random
 from get_beer_urls import get_beer_urls
 from get_beer_info import get_beer_info
-from utils import save_data_to_json, SearchType
+from utils.utils import save_data_to_json, SearchType
 
 # ------------------------------------------------------
 if __name__ == "__main__":
