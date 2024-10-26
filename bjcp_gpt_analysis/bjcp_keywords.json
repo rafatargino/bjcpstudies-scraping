@@ -1,0 +1,4843 @@
+[
+    {
+        "1A. American Light Lager": {
+            "aroma": {
+                "malte": "malte-baixo, cereal",
+                "lúpulo": "lúpulo-baixo, floral",
+                "ésteres": "ésteres-baixo",
+                "outros aromáticos": "outros-aromáticos-baixo"
+            },
+            "aparência": {
+                "cor": "cor-palha-clara",
+                "limpidez": "limpidez-clara",
+                "espuma": "espuma-baixa, branca"
+            },
+            "sabor": {
+                "lúpulo": "lúpulo-baixo, amargor-baixo",
+                "malte": "malte-baixo, cereal",
+                "ésteres": "ésteres-baixo",
+                "equilíbrio": "equilíbrio-malto-lúpulo",
+                "retrogosto": "retrogosto-ligeiro"
+            },
+            "sensação de boca": {
+                "corpo": "corpo-leve",
+                "carbonatação": "carbonatação-média-alta",
+                "calor": "calor-baixo",
+                "cremosidade": "cremosidade-baixa",
+                "adstringência": "adstringência-baixa"
+            },
+            "impressão geral": {
+                "malte": "malte-leve",
+                "lúpulo": "lúpulo-leve",
+                "ésteres": "ésteres-leves"
+            },
+            "comparação de estilos": {
+                "comparação1": "mais leve que American Lager",
+                "comparação2": "menos corpo que Pilsner",
+                "comparação3": "menos amargo que American Lager",
+                "comparação4": "mais refrescante que Helles"
+            }
+        }
+    },
+    {
+        "1B. American Lager": {
+            "aroma": {
+                "malte": "malte-baixo, cereal",
+                "lúpulo": "lúpulo-baixo, floral",
+                "ésteres": "ésteres-baixo, frutado",
+                "outros aromáticos": "outros-aromáticos-baixo"
+            },
+            "aparência": {
+                "cor": "cor-amarelo-claro, dourado",
+                "limpidez": "limpidez-clara",
+                "espuma": "espuma-baixa, branca"
+            },
+            "sabor": {
+                "lúpulo": "lúpulo-baixo, amargor-baixo",
+                "malte": "malte-baixo, cereal",
+                "ésteres": "ésteres-baixo, frutado",
+                "equilíbrio": "equilíbrio-médio",
+                "retrogosto": "retrogosto-ligeiro, seco"
+            },
+            "sensação de boca": {
+                "corpo": "corpo-leve",
+                "carbonatação": "carbonatação-média-alta",
+                "calor": "calor-baixo",
+                "cremosidade": "cremosidade-baixa",
+                "adstringência": "adstringência-baixa"
+            },
+            "impressão geral": {
+                "malte": "malte-baixo, limpo",
+                "lúpulo": "lúpulo-baixo, refrescante",
+                "ésteres": "ésteres-baixo, neutro"
+            },
+            "comparação de estilos": {
+                "comparação1": "mais leve que uma Pilsner",
+                "comparação2": "menos amarga que uma Pale Ale",
+                "comparação3": "mais refrescante que uma Amber Lager",
+                "comparação4": "semelhante a uma Helles"
+            }
+        }
+    },
+    {
+        "1C. Cream_Ale": {
+            "aroma": {
+                "malte": "malte-baixo-médio, cereal, biscoito",
+                "lúpulo": "lúpulo-baixo, floral, herbáceo",
+                "ésteres": "ésteres-baixo, frutado",
+                "outros_aromáticos": "outros-aromáticos-baixo, leve-doçura"
+            },
+            "aparência": {
+                "cor": "cor-amarelo-claro, dourado",
+                "limpidez": "limpidez-clara",
+                "espuma": "espuma-baixa, branca, efêmera"
+            },
+            "sabor": {
+                "lúpulo": "lúpulo-baixo, leve-amargor",
+                "malte": "malte-baixo-médio, cereal, biscoito",
+                "ésteres": "ésteres-baixo, frutado",
+                "equilíbrio": "equilíbrio-médio, malte-lúpulo",
+                "retrogosto": "retrogosto-ligeiro, seco"
+            },
+            "sensação_de_boca": {
+                "corpo": "corpo-leve-médio",
+                "carbonatação": "carbonatação-média-alta",
+                "calor": "calor-baixo",
+                "cremosidade": "cremosidade-baixa",
+                "adstringência": "adstringência-baixa"
+            },
+            "impressão_geral": {
+                "malte": "malte-médio, leve-doçura",
+                "lúpulo": "lúpulo-baixo, leve-amargor",
+                "ésteres": "ésteres-baixo, frutado"
+            },
+            "comparacao_de_estilos": {
+                "comparacao_1": "mais leve que uma American Pale Ale",
+                "comparacao_2": "menos amarga que uma Lager",
+                "comparacao_3": "mais frutada que uma Blonde Ale"
+            }
+        }
+    },
+    {
+        "1D. American Wheat Beer": {
+            "aroma": {
+                "malte": [
+                    "trigo-baixo-médio",
+                    "cereal",
+                    "biscoito"
+                ],
+                "lúpulo": [
+                    "lúpulo-baixo",
+                    "citrico",
+                    "floral"
+                ],
+                "ésteres": [
+                    "ésteres-baixo-médio",
+                    "frutado"
+                ],
+                "outros aromáticos": [
+                    "especiarias-baixo",
+                    "banana-baixo"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "amarelo-claro",
+                    "dourado"
+                ],
+                "limpidez": [
+                    "turbidez-média-alta"
+                ],
+                "espuma": [
+                    "espuma-branca",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-baixo",
+                    "citrico"
+                ],
+                "malte": [
+                    "trigo-baixo-médio",
+                    "cereal",
+                    "biscoito"
+                ],
+                "ésteres": [
+                    "ésteres-baixo-médio",
+                    "frutado"
+                ],
+                "equilíbrio": [
+                    "equilibrado",
+                    "malte-lúpulo"
+                ],
+                "retrogosto": [
+                    "retrogosto-ligeiro",
+                    "cereal"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "corpo-leve-médio"
+                ],
+                "carbonatação": [
+                    "carbonatação-média-alta"
+                ],
+                "calor": [
+                    "calor-baixo"
+                ],
+                "cremosidade": [
+                    "cremosidade-baixa"
+                ],
+                "adstringência": [
+                    "adstringência-baixa"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "malte-leve",
+                    "cereal"
+                ],
+                "lúpulo": [
+                    "lúpulo-leve",
+                    "citrico"
+                ],
+                "ésteres": [
+                    "ésteres-leves",
+                    "frutado"
+                ]
+            },
+            "comparação de estilos": {
+                "comparação1": "mais leve que a Hefeweizen",
+                "comparação2": "menos frutada que a Witbier",
+                "comparação3": "menos amarga que a American Pale Ale"
+            }
+        }
+    },
+    {
+        "21A_American_IPA": {
+            "aroma": {
+                "lúpulo": "lúpulo-proeminente, cítrico, floral, resinoso, pinho",
+                "malte": "malte-baixo, caramelo-baixo",
+                "ésteres": "ésteres-baixo, frutado",
+                "outros_aromáticos": "especiarias-baixo"
+            },
+            "aparência": {
+                "cor": "âmbar-claro, dourado",
+                "limpidez": "limpo",
+                "espuma": "espuma-alta, duradoura"
+            },
+            "sabor": {
+                "lúpulo": "lúpulo-proeminente, amargo-médio-alto, cítrico, resinoso",
+                "malte": "malte-baixo, caramelo-baixo",
+                "ésteres": "ésteres-baixo, frutado",
+                "equilíbrio": "equilíbrio-amargo-médio",
+                "retrogosto": "retrogosto-amargo, seco"
+            },
+            "sensação_de_boca": {
+                "corpo": "corpo-médio",
+                "carbonatação": "carbonatação-média-alta",
+                "calor": "calor-baixo-opcional",
+                "cremosidade": "cremosidade-baixa",
+                "adstringência": "adstringência-baixa"
+            },
+            "impressão_geral": {
+                "malte": "malte-baixo, caramelo-baixo",
+                "lúpulo": "lúpulo-proeminente, amargo-médio-alto",
+                "ésteres": "ésteres-baixo, frutado"
+            },
+            "comparacao_de_estilos": {
+                "comparacao_1": "mais amargo que Pale Ale",
+                "comparacao_2": "menos maltado que Double IPA",
+                "comparacao_3": "mais frutado que West Coast IPA",
+                "comparacao_4": "menos intenso que New England IPA"
+            }
+        }
+    },
+    {
+        "6A. Märzen": {
+            "aroma": {
+                "malte": "malte-médio, caramelo-médio, tostado-baixo",
+                "lúpulo": "lúpulo-baixo, floral-baixo",
+                "ésteres": "ésteres-baixo, frutado-baixo",
+                "outros aromáticos": "outros-aromáticos-baixo"
+            },
+            "aparência": {
+                "cor": "cor-âmbar, cobre",
+                "limpidez": "limpidez-clara",
+                "espuma": "espuma-média, durabilidade-média"
+            },
+            "sabor": {
+                "lúpulo": "lúpulo-baixo, amargor-baixo",
+                "malte": "malte-médio, caramelo-médio, tostado-baixo",
+                "ésteres": "ésteres-baixo, frutado-baixo",
+                "equilíbrio": "equilíbrio-malteado",
+                "retrogosto": "retrogosto-médio, doce-médio"
+            },
+            "sensação de boca": {
+                "corpo": "corpo-médio",
+                "carbonatação": "carbonatação-média",
+                "calor": "calor-baixo",
+                "cremosidade": "cremosidade-média",
+                "adstringência": "adstringência-baixa"
+            },
+            "impressão geral": {
+                "malte": "malte-médio, caramelo-médio",
+                "lúpulo": "lúpulo-baixo",
+                "ésteres": "ésteres-baixo"
+            },
+            "comparação de estilos": {
+                "comparação1": "mais maltada que uma Helles",
+                "comparação2": "menos amarga que uma Pilsner",
+                "comparação3": "semelhante a uma Vienna Lager",
+                "comparação4": "mais encorpada que uma Kölsch"
+            }
+        }
+    },
+    {
+        "7A. Vienna Lager": {
+            "aroma": {
+                "malte": "malte-torrado-baixo, caramelo-médio, biscoito-médio",
+                "lúpulo": "lúpulo-baixo, floral-baixo",
+                "ésteres": "ésteres-baixo, frutado-baixo",
+                "outros aromáticos": "outros-aromáticos-baixo"
+            },
+            "aparência": {
+                "cor": "cor-âmbar, cobre",
+                "limpidez": "limpidez-clara",
+                "espuma": "espuma-média, durabilidade-média"
+            },
+            "sabor": {
+                "lúpulo": "lúpulo-baixo, amargor-baixo",
+                "malte": "malte-torrado-baixo, caramelo-médio, biscoito-médio",
+                "ésteres": "ésteres-baixo, frutado-baixo",
+                "equilíbrio": "equilíbrio-malteado",
+                "retrogosto": "retrogosto-ligeiramente-doce"
+            },
+            "sensação de boca": {
+                "corpo": "corpo-médio",
+                "carbonatação": "carbonatação-média",
+                "calor": "calor-baixo",
+                "cremosidade": "cremosidade-baixa",
+                "adstringência": "adstringência-baixa"
+            },
+            "impressão geral": {
+                "malte": "malte-malteado, suave",
+                "lúpulo": "lúpulo-baixo, sutil",
+                "ésteres": "ésteres-baixo, discreto"
+            },
+            "comparação de estilos": {
+                "comparação1": "mais maltada que uma Helles",
+                "comparação2": "menos amarga que uma Märzen",
+                "comparação3": "semelhante a uma Amber Lager",
+                "comparação4": "mais leve que uma Dunkel"
+            }
+        }
+    },
+    {
+        "21A_American_IPA": {
+            "aroma": {
+                "lúpulo": "lúpulo-proeminente, cítrico, floral, resinoso, pinho, tropical",
+                "malte": "malte-baixo, caramelo-baixo",
+                "ésteres": "ésteres-baixo, frutado",
+                "outros aromáticos": "especiarias-baixo, herbáceo-baixo"
+            },
+            "aparência": {
+                "cor": "âmbar-claro, dourado",
+                "limpidez": "limpo, ligeiramente turvo",
+                "espuma": "espuma-alta, duradoura, cremosa"
+            },
+            "sabor": {
+                "lúpulo": "lúpulo-proeminente, amargo-alto, cítrico, resinoso, tropical",
+                "malte": "malte-baixo, caramelo-baixo-médio",
+                "ésteres": "ésteres-baixo, frutado",
+                "equilíbrio": "equilíbrio-amargo, seco",
+                "retrogosto": "retrogosto-amargo, lúpulo"
+            },
+            "sensação_de_boca": {
+                "corpo": "corpo-médio, leve",
+                "carbonatação": "carbonatação-média-alta",
+                "calor": "calor-baixo",
+                "cremosidade": "cremosidade-baixa",
+                "adstringência": "adstringência-baixa"
+            },
+            "impressão_geral": {
+                "malte": "malte-baixo, seco",
+                "lúpulo": "lúpulo-proeminente, fresco",
+                "ésteres": "ésteres-baixo, frutado"
+            },
+            "comparacao_de_estilos": {
+                "comparacao_1": "mais amargo que uma Pale Ale",
+                "comparacao_2": "menos maltada que uma Amber Ale",
+                "comparacao_3": "mais cítrica que uma West Coast IPA",
+                "comparacao_4": "semelhante a uma New England IPA"
+            }
+        }
+    },
+    {
+        "21A_American_IPA": {
+            "aroma": {
+                "lúpulo": "lúpulo-proeminente, cítrico, floral, resinoso, pinho",
+                "malte": "malte-baixo, caramelo-baixo, biscoito-baixo",
+                "ésteres": "ésteres-baixo, frutado",
+                "outros_aromáticos": "especiarias-baixo, herbáceo-baixo"
+            },
+            "aparência": {
+                "cor": "âmbar-dourado, cobre",
+                "limpidez": "limpo, ligeiramente turvo",
+                "espuma": "espuma-média-alta, persistente, creme"
+            },
+            "sabor": {
+                "lúpulo": "lúpulo-proeminente, cítrico, resinoso, amargo-médio-alto",
+                "malte": "malte-baixo, caramelo-baixo, biscoito-baixo",
+                "ésteres": "ésteres-baixo, frutado",
+                "equilíbrio": "equilíbrio-amargo, seco",
+                "retrogosto": "retrogosto-amargo, persistente"
+            },
+            "sensação_de_boca": {
+                "corpo": "corpo-médio, leve",
+                "carbonatação": "carbonatação-média-alta",
+                "calor": "calor-baixo",
+                "cremosidade": "cremosidade-baixa",
+                "adstringência": "adstringência-baixa"
+            },
+            "impressão_geral": {
+                "malte": "malte-baixo, seco",
+                "lúpulo": "lúpulo-proeminente, fresco",
+                "ésteres": "ésteres-baixo, frutado"
+            },
+            "comparacao_de_estilos": {
+                "comparacao_1": "mais amargo que uma Pale Ale",
+                "comparacao_2": "menos maltada que uma Amber Ale",
+                "comparacao_3": "mais frutada que uma West Coast IPA",
+                "comparacao_4": "menos intensa que uma Double IPA"
+            }
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "lúpulo": "lúpulo-proeminente, cítrico, floral, resinoso, pinho, herbáceo, tropical",
+                "malte": "malte-baixo, caramelo-baixo, biscoito-baixo",
+                "ésteres": "ésteres-baixo, frutado",
+                "outros aromáticos": "especiarias-baixo, fenólico-baixo"
+            },
+            "aparência": {
+                "cor": "âmbar-claro, âmbar-escuro, dourado",
+                "limpidez": "limpo, ligeiramente turvo",
+                "espuma": "espuma-alta, duradoura, cremosa"
+            },
+            "sabor": {
+                "lúpulo": "lúpulo-proeminente, cítrico, resinoso, herbáceo, tropical",
+                "malte": "malte-baixo, caramelo-baixo, biscoito-baixo",
+                "ésteres": "ésteres-baixo, frutado",
+                "equilíbrio": "equilíbrio-amargo, equilíbrio-médio",
+                "retrogosto": "amargo-médio, resinoso"
+            },
+            "sensação de boca": {
+                "corpo": "corpo-médio, corpo-alto",
+                "carbonatação": "carbonatação-média-alta",
+                "calor": "calor-baixo",
+                "cremosidade": "cremosidade-média",
+                "adstringência": "adstringência-baixa"
+            },
+            "impressão geral": {
+                "malte": "malte-baixo, caramelo-baixo",
+                "lúpulo": "lúpulo-proeminente, amargor-médio-alto",
+                "ésteres": "ésteres-baixo, frutado"
+            },
+            "comparação de estilos": {
+                "comparação1": "mais amargo que Pale Ale",
+                "comparação2": "menos maltada que Double IPA",
+                "comparação3": "mais frutada que West Coast IPA",
+                "comparação4": "menos intensa que New England IPA"
+            }
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "lúpulo": "lúpulo-proeminente, cítrico, floral, pinho, resinoso",
+                "malte": "malte-baixo, biscoito, caramelo-baixo",
+                "ésteres": "ésteres-baixo, frutado",
+                "outros aromáticos": "herbal, especiarias"
+            },
+            "aparência": {
+                "cor": "âmbar-claro, dourado",
+                "limpidez": "limpo, ligeiramente turvo",
+                "espuma": "espuma-média, persistente"
+            },
+            "sabor": {
+                "lúpulo": "lúpulo-proeminente, cítrico, resinoso",
+                "malte": "malte-baixo, biscoito, caramelo-baixo",
+                "ésteres": "ésteres-baixo, frutado",
+                "equilíbrio": "equilíbrio-amargo-médio",
+                "retrogosto": "retrogosto-amargo, seco"
+            },
+            "sensação de boca": {
+                "corpo": "corpo-médio",
+                "carbonatação": "carbonatação-média-alta",
+                "calor": "calor-baixo",
+                "cremosidade": "cremosidade-baixa",
+                "adstringência": "adstringência-baixa"
+            },
+            "impressão geral": {
+                "malte": "malte-baixo, biscoito",
+                "lúpulo": "lúpulo-proeminente, amargo",
+                "ésteres": "ésteres-baixo, frutado"
+            },
+            "comparação de estilos": {
+                "comparação1": "mais amargo que Pale Ale",
+                "comparação2": "menos frutado que New England IPA",
+                "comparação3": "mais lupulada que West Coast IPA"
+            }
+        }
+    },
+    {
+        "21A. American IPA": {
+            "Aroma": {
+                "lúpulo": "lúpulo-proeminente, lúpulo-americano, cítrico, floral, pinho, resinoso, condimentos, frutas-tropicais, frutas-caroço, frutas-vermelhas, melão",
+                "malte": "malte-baixo-médio-baixo, limpo, cereais",
+                "ésteres": "ésteres-baixo, frutado-leve",
+                "outros aromáticos": "álcool-opcional"
+            },
+            "Aparência": {
+                "cor": "âmbar-dourado",
+                "limpidez": "limpo",
+                "espuma": "espuma-média-alta, persistente"
+            },
+            "Sabor": {
+                "lúpulo": "lúpulo-proeminente, amargor-alto, cítrico, resinoso, frutas-tropicais",
+                "malte": "malte-baixo-médio, caramelo-baixo, biscoito-baixo",
+                "ésteres": "ésteres-baixo, frutado-leve",
+                "equilíbrio": "equilíbrio-amargo, malte-leve",
+                "retrogosto": "retrogosto-amargo, persistente"
+            },
+            "Sensação de boca": {
+                "corpo": "corpo-médio",
+                "carbonatação": "carbonatação-média-alta",
+                "calor": "calor-baixo",
+                "cremosidade": "cremosidade-baixa",
+                "adstringência": "adstringência-baixa"
+            },
+            "Impressão geral": {
+                "malte": "malte-médio, limpo",
+                "lúpulo": "lúpulo-proeminente, fresco",
+                "ésteres": "ésteres-baixo, frutado"
+            },
+            "Comparação de estilos": {
+                "comparação1": "mais amargo que a Pale Ale",
+                "comparação2": "menos maltada que a Double IPA",
+                "comparação3": "mais frutada que a West Coast IPA",
+                "comparação4": "semelhante à New England IPA",
+                "comparação5": "mais refrescante que a Brown Ale"
+            }
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "lúpulo-americano",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "ésteres-baixo",
+                    "frutado-leve"
+                ],
+                "outros aromáticos": [
+                    "álcool-baixo-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-claro",
+                    "âmbar-escuro"
+                ],
+                "limpidez": [
+                    "limpa",
+                    "opaca"
+                ],
+                "espuma": [
+                    "espuma-alta",
+                    "cremosa",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "caramelo-baixo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "ésteres-baixo",
+                    "frutado-leve"
+                ],
+                "equilíbrio": [
+                    "equilíbrio-amargo",
+                    "equilíbrio-malte"
+                ],
+                "retrogosto": [
+                    "amargo-médio-alto",
+                    "frutado",
+                    "resinoso"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "corpo-médio",
+                    "corpo-leve"
+                ],
+                "carbonatação": [
+                    "carbonatação-média-alta"
+                ],
+                "calor": [
+                    "calor-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "cremosidade-média"
+                ],
+                "adstringência": [
+                    "adstringência-baixa"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "malte-médio",
+                    "caramelo-baixo"
+                ],
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "amargo-médio-alto"
+                ],
+                "ésteres": [
+                    "ésteres-baixo",
+                    "frutado-leve"
+                ]
+            },
+            "comparação de estilos": {
+                "comparação": [
+                    "mais amargo que uma Pale Ale",
+                    "menos maltada que uma Amber Ale",
+                    "mais frutada que uma West Coast IPA",
+                    "mais leve que uma Double IPA",
+                    "mais aromática que uma English IPA"
+                ]
+            }
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "lúpulo-americano",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "ésteres-baixo",
+                    "frutado-leve"
+                ],
+                "outros aromáticos": [
+                    "álcool-baixo-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-claro",
+                    "âmbar-escuro"
+                ],
+                "limpidez": [
+                    "limpo",
+                    "ligeiramente turvo"
+                ],
+                "espuma": [
+                    "espuma-alta",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "frutado",
+                    "resinoso"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "caramelo-baixo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "ésteres-baixo",
+                    "frutado-leve"
+                ],
+                "equilíbrio": [
+                    "equilíbrio-médio",
+                    "amargor-médio-alto"
+                ],
+                "retrogosto": [
+                    "amargo",
+                    "frutado"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "corpo-médio"
+                ],
+                "carbonatação": [
+                    "carbonatação-média"
+                ],
+                "calor": [
+                    "calor-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "cremosidade-média"
+                ],
+                "adstringência": [
+                    "adstringência-baixa"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "malte-médio",
+                    "caramelo-baixo"
+                ],
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "amargor-alto"
+                ],
+                "ésteres": [
+                    "ésteres-baixo",
+                    "frutado"
+                ]
+            },
+            "comparação de estilos": {
+                "comparação": [
+                    "mais amargo que a Pale Ale",
+                    "menos frutado que a New England IPA",
+                    "mais lupulada que a West Coast IPA",
+                    "menos intensa que a Double IPA"
+                ]
+            }
+        }
+    },
+    {
+        "20A. American Porter": {
+            "aroma": {
+                "malte": "malte-torrado-médio-alto, chocolate, café, caramelo, biscoito, nozes",
+                "lúpulo": "lúpulo-baixo, floral, resinoso",
+                "ésteres": "ésteres-baixo, frutado-leve",
+                "outros aromáticos": "álcool-baixo-opcional"
+            },
+            "aparência": {
+                "cor": "cor-preta, marrom-escuro",
+                "limpidez": "limpidez-clara",
+                "espuma": "espuma-cremosa, persistente"
+            },
+            "sabor": {
+                "lúpulo": "lúpulo-baixo, resinoso",
+                "malte": "malte-torrado-médio-alto, chocolate, café, caramelo, biscoito, nozes",
+                "ésteres": "ésteres-baixo, frutado-leve",
+                "equilíbrio": "equilíbrio-médio, malte-lúpulo",
+                "retrogosto": "retrogosto-torrado, amargo-médio"
+            },
+            "sensação de boca": {
+                "corpo": "corpo-médio, encorpado",
+                "carbonatação": "carbonatação-média",
+                "calor": "calor-baixo-opcional",
+                "cremosidade": "cremosidade-média",
+                "adstringência": "adstringência-baixa"
+            },
+            "impressão geral": {
+                "malte": "malte-torrado-médio-alto, complexo",
+                "lúpulo": "lúpulo-baixo, equilibrado",
+                "ésteres": "ésteres-baixo, frutado-leve"
+            },
+            "comparação de estilos": {
+                "comparação1": "mais leve que um stout",
+                "comparação2": "menos amargo que uma IPA",
+                "comparação3": "mais maltada que uma brown ale",
+                "comparação4": "semelhante a um robust porter",
+                "comparação5": "menos doce que um milk stout"
+            }
+        }
+    },
+    {
+        "estilo": "21A. American IPA",
+        "aroma": {
+            "lúpulo": [
+                "lúpulo-proeminente",
+                "cítrico",
+                "floral",
+                "pinho",
+                "resinoso",
+                "terroso",
+                "condimentos",
+                "frutas-tropicais",
+                "frutas-caroço",
+                "frutas-vermelhas",
+                "melão"
+            ],
+            "malte": [
+                "malte-baixo-médio",
+                "limpo",
+                "cereais"
+            ],
+            "ésteres": [
+                "ésteres-baixo",
+                "frutado-leve"
+            ],
+            "outros aromáticos": [
+                "álcool-opcional"
+            ]
+        },
+        "aparência": {
+            "cor": [
+                "âmbar-dourado",
+                "cobre"
+            ],
+            "limpidez": [
+                "clara",
+                "opaca"
+            ],
+            "espuma": [
+                "alta",
+                "persistente"
+            ]
+        },
+        "sabor": {
+            "lúpulo": [
+                "lúpulo-proeminente",
+                "cítrico",
+                "floral",
+                "pinho",
+                "resinoso",
+                "terroso",
+                "condimentos",
+                "frutas-tropicais",
+                "frutas-caroço",
+                "frutas-vermelhas",
+                "melão"
+            ],
+            "malte": [
+                "malte-baixo-médio",
+                "limpo",
+                "cereais"
+            ],
+            "ésteres": [
+                "ésteres-baixo",
+                "frutado-leve"
+            ],
+            "equilíbrio": [
+                "amargor-alto",
+                "doçura-baixa"
+            ],
+            "retrogosto": [
+                "amargo",
+                "frutado"
+            ]
+        },
+        "sensação de boca": {
+            "corpo": [
+                "médio",
+                "médio-leve"
+            ],
+            "carbonatação": [
+                "média-alta"
+            ],
+            "calor": [
+                "baixo"
+            ],
+            "cremosidade": [
+                "baixa"
+            ],
+            "adstringência": [
+                "baixa"
+            ]
+        },
+        "impressão geral": {
+            "malte": [
+                "malte-baixo-médio"
+            ],
+            "lúpulo": [
+                "lúpulo-proeminente"
+            ],
+            "ésteres": [
+                "ésteres-baixo"
+            ]
+        },
+        "comparação de estilos": [
+            "mais amargo que a maioria das ales",
+            "menos maltada que uma Amber Ale",
+            "mais frutada que uma Pale Ale"
+        ]
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "ésteres-baixo",
+                    "frutado"
+                ],
+                "outros aromáticos": [
+                    "álcool-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "dourado-claro",
+                    "dourado-escuro",
+                    "âmbar"
+                ],
+                "limpidez": [
+                    "limpo",
+                    "ligeiramente turvo"
+                ],
+                "espuma": [
+                    "alta",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "ésteres-baixo",
+                    "frutado"
+                ],
+                "equilíbrio": [
+                    "amargor-alto",
+                    "doçura-baixa"
+                ],
+                "retrogosto": [
+                    "amargo",
+                    "frutado"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "corpo-médio"
+                ],
+                "carbonatação": [
+                    "carbonatação-média-alta"
+                ],
+                "calor": [
+                    "calor-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "cremosidade-baixa"
+                ],
+                "adstringência": [
+                    "leve-adstringência"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "malte-baixo"
+                ],
+                "lúpulo": [
+                    "lúpulo-proeminente"
+                ],
+                "ésteres": [
+                    "ésteres-baixo"
+                ]
+            },
+            "comparação de estilos": [
+                "Mais amargo que a English IPA.",
+                "Mais frutado que a West Coast IPA.",
+                "Menos maltada que a Double IPA.",
+                "Mais leve que a New England IPA."
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "ésteres-baixo",
+                    "frutado"
+                ],
+                "outros aromáticos": [
+                    "álcool-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-claro",
+                    "âmbar-escuro"
+                ],
+                "limpidez": [
+                    "clara",
+                    "opaca"
+                ],
+                "espuma": [
+                    "alta",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "ésteres-baixo",
+                    "frutado"
+                ],
+                "equilíbrio": [
+                    "amargor-alto",
+                    "doçura-baixa"
+                ],
+                "retrogosto": [
+                    "amargo",
+                    "frutado"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "médio"
+                ],
+                "carbonatação": [
+                    "média-alta"
+                ],
+                "calor": [
+                    "baixo-opcional"
+                ],
+                "cremosidade": [
+                    "baixa"
+                ],
+                "adstringência": [
+                    "baixa"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "malte-baixo-médio"
+                ],
+                "lúpulo": [
+                    "lúpulo-proeminente"
+                ],
+                "ésteres": [
+                    "ésteres-baixo",
+                    "frutado"
+                ]
+            },
+            "comparação de estilos": {
+                "comparação": [
+                    "mais amargo que a English IPA",
+                    "mais frutado que a West Coast IPA",
+                    "menos maltada que a New England IPA",
+                    "mais limpa que a Belgian IPA"
+                ]
+            }
+        }
+    },
+    {
+        "estilo": "21A. American IPA",
+        "aroma": {
+            "lúpulo": [
+                "lúpulo-proeminente",
+                "cítrico",
+                "floral",
+                "pinho",
+                "resinoso",
+                "terroso",
+                "condimentos",
+                "frutas-tropicais",
+                "frutas-caroço",
+                "frutas-vermelhas",
+                "melão"
+            ],
+            "malte": [
+                "malte-baixo-médio",
+                "limpo",
+                "cereais"
+            ],
+            "ésteres": [
+                "ésteres-baixo",
+                "frutado"
+            ],
+            "outros aromáticos": [
+                "álcool-opcional"
+            ]
+        },
+        "aparência": {
+            "cor": [
+                "âmbar-dourado",
+                "cobre"
+            ],
+            "limpidez": [
+                "clara",
+                "opaca"
+            ],
+            "espuma": [
+                "alta",
+                "persistente"
+            ]
+        },
+        "sabor": {
+            "lúpulo": [
+                "lúpulo-proeminente",
+                "cítrico",
+                "floral",
+                "pinho",
+                "resinoso",
+                "terroso",
+                "condimentos",
+                "frutas-tropicais",
+                "frutas-caroço",
+                "frutas-vermelhas",
+                "melão"
+            ],
+            "malte": [
+                "malte-baixo-médio",
+                "limpo",
+                "cereais"
+            ],
+            "ésteres": [
+                "ésteres-baixo",
+                "frutado"
+            ],
+            "equilíbrio": [
+                "amargor-alto",
+                "doçura-baixa"
+            ],
+            "retrogosto": [
+                "amargo",
+                "frutado"
+            ]
+        },
+        "sensação de boca": {
+            "corpo": [
+                "médio",
+                "médio-leve"
+            ],
+            "carbonatação": [
+                "média-alta"
+            ],
+            "calor": [
+                "baixo-opcional"
+            ],
+            "cremosidade": [
+                "baixa"
+            ],
+            "adstringência": [
+                "baixa"
+            ]
+        },
+        "impressão geral": {
+            "malte": [
+                "malte-baixo",
+                "limpo"
+            ],
+            "lúpulo": [
+                "lúpulo-proeminente",
+                "amargor-alto"
+            ],
+            "ésteres": [
+                "ésteres-baixo",
+                "frutado"
+            ]
+        },
+        "comparação de estilos": {
+            "outras IPAs": "Mais amargas e lupuladas que outras IPAs.",
+            "Pale Ales": "Mais lupuladas e com amargor mais alto.",
+            "Porters e Stouts": "Menos corpo e doçura que Porters e Stouts.",
+            "Cervejas de trigo": "Menos frutadas e mais amargas que cervejas de trigo."
+        }
+    },
+    {
+        "estilo": "21A. American IPA",
+        "aroma": {
+            "lúpulo": [
+                "lúpulo-proeminente",
+                "cítrico",
+                "floral",
+                "pinho",
+                "resinoso",
+                "terroso",
+                "condimentos",
+                "frutas-tropicais",
+                "frutas-caroço",
+                "frutas-vermelhas"
+            ],
+            "malte": [
+                "malte-baixo-médio",
+                "limpo",
+                "cereais"
+            ],
+            "ésteres": [
+                "ésteres-baixo",
+                "frutado-leve"
+            ],
+            "outros aromáticos": [
+                "álcool-opcional"
+            ]
+        },
+        "aparência": {
+            "cor": [
+                "âmbar-dourado",
+                "cobre"
+            ],
+            "limpidez": [
+                "clara",
+                "translúcida"
+            ],
+            "espuma": [
+                "espuma-média-alta",
+                "persistente"
+            ]
+        },
+        "sabor": {
+            "lúpulo": [
+                "lúpulo-proeminente",
+                "cítrico",
+                "floral",
+                "pinho",
+                "resinoso",
+                "terroso",
+                "condimentos",
+                "frutas-tropicais",
+                "frutas-caroço",
+                "frutas-vermelhas"
+            ],
+            "malte": [
+                "malte-baixo-médio",
+                "limpo",
+                "cereais"
+            ],
+            "ésteres": [
+                "ésteres-baixo",
+                "frutado-leve"
+            ],
+            "equilíbrio": [
+                "amargor-alto",
+                "doçura-baixa"
+            ],
+            "retrogosto": [
+                "amargo-médio-alto",
+                "frutado"
+            ]
+        },
+        "sensação de boca": {
+            "corpo": [
+                "corpo-médio",
+                "leve"
+            ],
+            "carbonatação": [
+                "carbonatação-média-alta"
+            ],
+            "calor": [
+                "calor-baixo-opcional"
+            ],
+            "cremosidade": [
+                "cremosidade-baixa"
+            ],
+            "adstringência": [
+                "adstringência-leve"
+            ]
+        },
+        "impressão geral": {
+            "malte": [
+                "malte-baixo",
+                "limpo"
+            ],
+            "lúpulo": [
+                "lúpulo-proeminente",
+                "amargor-alto"
+            ],
+            "ésteres": [
+                "ésteres-baixo",
+                "frutado-leve"
+            ]
+        },
+        "comparação de estilos": {
+            "estilos": [
+                "Mais amargo que a Pale Ale.",
+                "Menos maltada que a Double IPA.",
+                "Mais frutada que a English IPA.",
+                "Mais lupulada que a Session IPA."
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "outros aromáticos": [
+                    "álcool-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-claro",
+                    "âmbar-escuro"
+                ],
+                "limpidez": [
+                    "clara",
+                    "opaca"
+                ],
+                "espuma": [
+                    "alta",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "equilíbrio": [
+                    "amargor-alto",
+                    "doçura-baixa"
+                ],
+                "retrogosto": [
+                    "amargo",
+                    "frutado"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "médio"
+                ],
+                "carbonatação": [
+                    "alta"
+                ],
+                "calor": [
+                    "baixo-opcional"
+                ],
+                "cremosidade": [
+                    "baixa"
+                ],
+                "adstringência": [
+                    "leve-adstringência"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "limpo",
+                    "equilibrado"
+                ],
+                "lúpulo": [
+                    "proeminente",
+                    "frutado"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ]
+            },
+            "comparação de estilos": [
+                "mais lupulada que a English IPA",
+                "menos amarga que a Double IPA",
+                "mais frutada que a West Coast IPA",
+                "menos maltada que a New England IPA"
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "outros aromáticos": [
+                    "álcool-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-dourado",
+                    "cobre"
+                ],
+                "limpidez": [
+                    "clara",
+                    "translúcida"
+                ],
+                "espuma": [
+                    "alta",
+                    "persistente",
+                    "cremosa"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "caramelo-baixo-opcional",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "equilíbrio": [
+                    "amargor-alto",
+                    "doçura-baixa"
+                ],
+                "retrogosto": [
+                    "amargo",
+                    "frutado"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "médio",
+                    "médio-leve"
+                ],
+                "carbonatação": [
+                    "média-alta"
+                ],
+                "calor": [
+                    "álcool-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "baixa-opcional"
+                ],
+                "adstringência": [
+                    "leve-adstringência"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "limpo",
+                    "equilibrado"
+                ],
+                "lúpulo": [
+                    "proeminente",
+                    "fresco"
+                ],
+                "ésteres": [
+                    "frutado-leve"
+                ]
+            },
+            "comparação de estilos": {
+                "outras IPAs": "Mais amargas e lupuladas que outras IPAs.",
+                "Pale Ales": "Mais lupuladas e com amargor mais alto.",
+                "West Coast IPA": "Mais resinosas e com amargor intenso.",
+                "New England IPA": "Mais turvas e frutadas, com menos amargor."
+            }
+        }
+    },
+    {
+        "estilo": "21A. American IPA",
+        "aroma": {
+            "lúpulo": [
+                "lúpulo-proeminente",
+                "cítrico",
+                "floral",
+                "pinho",
+                "resinoso",
+                "terroso",
+                "condimentos",
+                "frutas-tropicais",
+                "frutas-caroço",
+                "frutas-vermelhas",
+                "melão"
+            ],
+            "malte": [
+                "malte-baixo-médio-baixo",
+                "limpo",
+                "cereais"
+            ],
+            "ésteres": [
+                "limpo",
+                "frutado-leve"
+            ],
+            "outros-aromáticos": [
+                "álcool-baixo-opcional"
+            ]
+        },
+        "aparência": {
+            "cor": [
+                "âmbar-dourado",
+                "cobre"
+            ],
+            "limpidez": [
+                "limpo",
+                "opaco"
+            ],
+            "espuma": [
+                "alta",
+                "persistente"
+            ]
+        },
+        "sabor": {
+            "lúpulo": [
+                "lúpulo-proeminente",
+                "cítrico",
+                "floral",
+                "pinho",
+                "resinoso",
+                "terroso",
+                "condimentos",
+                "frutas-tropicais",
+                "frutas-caroço",
+                "frutas-vermelhas",
+                "melão"
+            ],
+            "malte": [
+                "malte-médio-baixo",
+                "caramelo-baixo",
+                "cereais"
+            ],
+            "ésteres": [
+                "frutado-leve"
+            ],
+            "equilíbrio": [
+                "amargor-alto",
+                "doçura-baixa"
+            ],
+            "retrogosto": [
+                "amargo-alto",
+                "frutado-baixo-opcional"
+            ]
+        },
+        "sensação-de-boca": {
+            "corpo": [
+                "médio"
+            ],
+            "carbonatação": [
+                "média-alta"
+            ],
+            "calor": [
+                "álcool-baixo-opcional"
+            ],
+            "cremosidade": [
+                "baixo-opcional"
+            ],
+            "adstringência": [
+                "leve-adstringência"
+            ]
+        },
+        "impressão-geral": {
+            "malte": [
+                "limpo",
+                "equilibrado"
+            ],
+            "lúpulo": [
+                "proeminente",
+                "amargo"
+            ],
+            "ésteres": [
+                "frutado-leve"
+            ]
+        },
+        "comparacao-estilos": {
+            "21B. American Light Lager": "Mais leve e refrescante que a American IPA.",
+            "21C. Specialty IPA": "Pode incluir ingredientes diferentes ou técnicas de produção.",
+            "22A. Double IPA": "Mais intensa, com maior teor alcoólico e amargor.",
+            "22B. New England IPA": "Mais turva e com caráter frutado mais intenso."
+        }
+    },
+    {
+        "estilo": "21A. American IPA",
+        "aroma": {
+            "lúpulo": [
+                "lúpulo-proeminente",
+                "cítrico",
+                "floral",
+                "pinho",
+                "resinoso",
+                "terroso",
+                "condimentos",
+                "frutas-tropicais",
+                "frutas-caroço",
+                "frutas-vermelhas",
+                "melão"
+            ],
+            "malte": [
+                "malte-baixo-médio",
+                "limpo",
+                "cereais"
+            ],
+            "ésteres": [
+                "limpo",
+                "frutado-leve"
+            ],
+            "outros aromáticos": [
+                "álcool-opcional"
+            ]
+        },
+        "aparência": {
+            "cor": [
+                "âmbar-dourado",
+                "cobre"
+            ],
+            "limpidez": [
+                "clara",
+                "opaca"
+            ],
+            "espuma": [
+                "alta",
+                "persistente"
+            ]
+        },
+        "sabor": {
+            "lúpulo": [
+                "lúpulo-proeminente",
+                "cítrico",
+                "floral",
+                "pinho",
+                "resinoso",
+                "terroso",
+                "condimentos",
+                "frutas-tropicais",
+                "frutas-caroço",
+                "frutas-vermelhas",
+                "melão"
+            ],
+            "malte": [
+                "malte-baixo-médio",
+                "limpo",
+                "cereais"
+            ],
+            "ésteres": [
+                "limpo",
+                "frutado-leve"
+            ],
+            "equilíbrio": [
+                "amargor-alto",
+                "doçura-baixa"
+            ],
+            "retrogosto": [
+                "amargo",
+                "frutado"
+            ]
+        },
+        "sensação de boca": {
+            "corpo": [
+                "médio",
+                "médio-leve"
+            ],
+            "carbonatação": [
+                "média-alta"
+            ],
+            "calor": [
+                "álcool-baixo-opcional"
+            ],
+            "cremosidade": [
+                "baixa"
+            ],
+            "adstringência": [
+                "leve-adstringência"
+            ]
+        },
+        "impressão geral": {
+            "malte": [
+                "malte-baixo-médio"
+            ],
+            "lúpulo": [
+                "lúpulo-proeminente"
+            ],
+            "fermentação": [
+                "limpa"
+            ]
+        },
+        "comparação de estilos": [
+            "Mais amargo que a English IPA.",
+            "Menos maltado que a American Pale Ale.",
+            "Mais frutado que a West Coast IPA.",
+            "Menos amargo que a Double IPA."
+        ]
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "outros aromáticos": [
+                    "álcool-baixo-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "dourado-claro",
+                    "âmbar"
+                ],
+                "limpidez": [
+                    "limpa",
+                    "opaca"
+                ],
+                "espuma": [
+                    "alta",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "equilíbrio": [
+                    "amargor-alto",
+                    "doçura-baixa"
+                ],
+                "retrogosto": [
+                    "amargo-médio-alto",
+                    "frutado-leve"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "médio",
+                    "médio-leve"
+                ],
+                "carbonatação": [
+                    "média-alta"
+                ],
+                "calor": [
+                    "baixo-opcional"
+                ],
+                "cremosidade": [
+                    "baixa-opcional"
+                ],
+                "adstringência": [
+                    "leve-adstringência"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "limpo",
+                    "equilibrado"
+                ],
+                "lúpulo": [
+                    "proeminente",
+                    "fresco"
+                ],
+                "fermentação": [
+                    "limpa"
+                ]
+            },
+            "comparação de estilos": [
+                "mais amargo que a English IPA",
+                "mais frutado que a West Coast IPA",
+                "menos maltada que a American Pale Ale",
+                "mais intensa que a Session IPA"
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "outros aromáticos": [
+                    "álcool-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-claro",
+                    "âmbar-escuro"
+                ],
+                "limpidez": [
+                    "limpo",
+                    "opaco"
+                ],
+                "espuma": [
+                    "alta",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "equilíbrio": [
+                    "amargor-alto",
+                    "doçura-baixa"
+                ],
+                "retrogosto": [
+                    "amargo",
+                    "frutado"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "médio"
+                ],
+                "carbonatação": [
+                    "média-alta"
+                ],
+                "calor": [
+                    "álcool-médio"
+                ],
+                "cremosidade": [
+                    "baixa"
+                ],
+                "adstringência": [
+                    "baixa"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "limpo",
+                    "equilibrado"
+                ],
+                "lúpulo": [
+                    "proeminente"
+                ],
+                "fermentação": [
+                    "limpa"
+                ]
+            },
+            "comparação de estilos": [
+                "American IPA é mais lupulada e amarga do que a English IPA.",
+                "American IPA é mais frutada e menos maltada do que a Double IPA.",
+                "American IPA é mais leve e menos alcoólica do que a Imperial IPA.",
+                "American IPA pode ter um caráter de lúpulo mais intenso do que a New England IPA."
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "frutado-leve",
+                    "limpo"
+                ],
+                "outros": [
+                    "álcool-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-dourado",
+                    "cobre"
+                ],
+                "limpidez": [
+                    "clara",
+                    "translúcida"
+                ],
+                "espuma": [
+                    "alta",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "frutado-leve",
+                    "limpo"
+                ],
+                "equilíbrio": [
+                    "amargor-médio-alto",
+                    "doçura-baixa"
+                ],
+                "retrogosto": [
+                    "amargo",
+                    "frutado"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "médio",
+                    "médio-leve"
+                ],
+                "carbonatação": [
+                    "média-alta"
+                ],
+                "calor": [
+                    "álcool-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "baixa"
+                ],
+                "adstringência": [
+                    "baixa"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "limpo",
+                    "equilibrado"
+                ],
+                "lúpulo": [
+                    "proeminente",
+                    "cativante"
+                ],
+                "fermentação": [
+                    "limpa"
+                ]
+            },
+            "comparação de estilos": [
+                "American IPA é mais lupulada e amarga do que a English IPA.",
+                "American IPA tem um caráter de lúpulo mais frutado e cítrico do que a West Coast IPA.",
+                "American IPA é geralmente mais leve em corpo e álcool do que a Double IPA.",
+                "American IPA pode ter um perfil de lúpulo mais intenso do que a New England IPA, que é mais turva e frutada."
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "outros aromáticos": [
+                    "álcool-baixo-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-dourado",
+                    "cobre"
+                ],
+                "limpidez": [
+                    "limpa",
+                    "opaca"
+                ],
+                "espuma": [
+                    "alta",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "equilíbrio": [
+                    "amargor-alto",
+                    "doçura-baixa"
+                ],
+                "retrogosto": [
+                    "amargo",
+                    "lúpulo"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "médio-leve",
+                    "médio"
+                ],
+                "carbonatação": [
+                    "média-alta"
+                ],
+                "calor": [
+                    "álcool-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "baixa"
+                ],
+                "adstringência": [
+                    "baixa",
+                    "leve-adstringência"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "limpo"
+                ],
+                "lúpulo": [
+                    "proeminente"
+                ],
+                "fermentação": [
+                    "limpa"
+                ]
+            },
+            "comparação de estilos": [
+                "Mais lupulada que a American Pale Ale.",
+                "Menos maltada que a English IPA.",
+                "Mais amarga que a English IPA.",
+                "Mais frutada que a English IPA.",
+                "Menos amarga que a Double IPA.",
+                "Mais maltada que a Session IPA."
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "outros aromáticos": [
+                    "álcool-baixo-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-dourado"
+                ],
+                "limpidez": [
+                    "limpo"
+                ],
+                "espuma": [
+                    "espuma-alta",
+                    "durabilidade-alta"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "frutado-leve"
+                ],
+                "equilíbrio": [
+                    "amargor-alto",
+                    "doçura-baixa"
+                ],
+                "retrogosto": [
+                    "amargo",
+                    "lúpulo"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "corpo-médio"
+                ],
+                "carbonatação": [
+                    "carbonatação-média-alta"
+                ],
+                "calor": [
+                    "álcool-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "cremosidade-média"
+                ],
+                "adstringência": [
+                    "adstringência-baixa"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "malte-baixo"
+                ],
+                "lúpulo": [
+                    "lúpulo-proeminente"
+                ],
+                "fermentação": [
+                    "limpo"
+                ]
+            },
+            "comparação de estilos": [
+                "Mais lupulada que a American Pale Ale",
+                "Menos maltada que a English IPA",
+                "Mais amarga que a English IPA",
+                "Mais frutada que a English IPA",
+                "Menos amarga que a Double IPA",
+                "Mais maltada que a Session IPA"
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "outros aromáticos": [
+                    "álcool-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "dourado",
+                    "âmbar"
+                ],
+                "limpidez": [
+                    "clara",
+                    "opaca"
+                ],
+                "espuma": [
+                    "alta",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "caramelo-baixo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "frutado-leve",
+                    "limpo"
+                ],
+                "equilíbrio": [
+                    "amargor-alto",
+                    "doçura-baixa"
+                ],
+                "retrogosto": [
+                    "amargo",
+                    "frutado"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "médio",
+                    "médio-leve"
+                ],
+                "carbonatação": [
+                    "média-alta",
+                    "alta"
+                ],
+                "calor": [
+                    "álcool-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "baixa"
+                ],
+                "adstringência": [
+                    "leve-adstringência"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "limpo",
+                    "equilibrado"
+                ],
+                "lúpulo": [
+                    "proeminente",
+                    "frutado"
+                ],
+                "fermentação": [
+                    "limpa"
+                ]
+            },
+            "comparação de estilos": [
+                "Mais lupulada que a American Pale Ale.",
+                "Menos maltada que a English IPA.",
+                "Mais amarga que a English IPA.",
+                "Menos amarga que a Double IPA.",
+                "Mais frutada que a English IPA.",
+                "Menos frutada que a Double IPA."
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "outros aromáticos": [
+                    "álcool-baixo-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-ouro",
+                    "cobre"
+                ],
+                "limpidez": [
+                    "clara",
+                    "opaca"
+                ],
+                "espuma": [
+                    "alta",
+                    "duradoura"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "frutado-leve"
+                ],
+                "equilíbrio": [
+                    "amargor-alto",
+                    "malte-baixo-médio"
+                ],
+                "retrogosto": [
+                    "amargo",
+                    "lúpulo"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "médio"
+                ],
+                "carbonatação": [
+                    "média-alta"
+                ],
+                "calor": [
+                    "álcool-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "baixa"
+                ],
+                "adstringência": [
+                    "baixa"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "limpo",
+                    "equilibrado"
+                ],
+                "lúpulo": [
+                    "proeminente",
+                    "fresco"
+                ],
+                "fermentação": [
+                    "limpa"
+                ]
+            },
+            "comparação de estilos": [
+                "Mais lupulada que a American Pale Ale.",
+                "Menos maltada que a English IPA.",
+                "Mais amarga que a English IPA.",
+                "Menos amarga que a Double IPA.",
+                "Mais leve que a Double IPA.",
+                "Mais frutada que a English IPA."
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "outros aromáticos": [
+                    "álcool-baixo-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-dourado"
+                ],
+                "limpidez": [
+                    "limpa"
+                ],
+                "espuma": [
+                    "espuma-alta",
+                    "durável"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "equilíbrio": [
+                    "amargor-alto",
+                    "malte-baixo-médio"
+                ],
+                "retrogosto": [
+                    "amargo-alto",
+                    "lúpulo"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "corpo-médio"
+                ],
+                "carbonatação": [
+                    "carbonatação-média-alta"
+                ],
+                "calor": [
+                    "calor-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "cremosidade-baixa-opcional"
+                ],
+                "adstringência": [
+                    "leve-adstringência"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "malte-baixo-médio"
+                ],
+                "lúpulo": [
+                    "lúpulo-proeminente"
+                ],
+                "fermentação": [
+                    "limpa"
+                ]
+            },
+            "comparação de estilos": [
+                "Menos maltado que a English IPA, mais lupulada que a American Pale Ale.",
+                "Mais amarga que a American Pale Ale, menos amarga que a Double IPA.",
+                "Mais leve que a Double IPA.",
+                "Mais aromática que a American Pale Ale."
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "frutado",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "ésteres": [
+                    "frutado-leve"
+                ],
+                "outros aromáticos": [
+                    "álcool-baixo-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-dourado",
+                    "cobre"
+                ],
+                "limpidez": [
+                    "clara",
+                    "ligeiramente turva"
+                ],
+                "espuma": [
+                    "alta",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "frutado",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "frutado-leve"
+                ],
+                "equilíbrio": [
+                    "lúpulo-dominante",
+                    "equilibrado",
+                    "malte-baixo"
+                ],
+                "retrogosto": [
+                    "amargo",
+                    "lúpulo"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "médio",
+                    "ligeiramente encorpada"
+                ],
+                "carbonatação": [
+                    "média-alta"
+                ],
+                "calor": [
+                    "álcool-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "baixa"
+                ],
+                "adstringência": [
+                    "baixa"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "limpo",
+                    "malte-baixo"
+                ],
+                "lúpulo": [
+                    "proeminente",
+                    "citrico",
+                    "frutado"
+                ],
+                "fermentação": [
+                    "limpa",
+                    "frutado-leve"
+                ]
+            },
+            "comparação de estilos": [
+                "Menos maltado que a English IPA, mais lupulada que a American Pale Ale.",
+                "Mais amarga que a American Pale Ale, menos amarga que a Double IPA.",
+                "Mais leve que a Double IPA.",
+                "Menos amarga que a Double IPA."
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "outros aromáticos": [
+                    "álcool-baixo-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-dourado",
+                    "cobre"
+                ],
+                "limpidez": [
+                    "clara",
+                    "opaca"
+                ],
+                "espuma": [
+                    "alta",
+                    "persistente",
+                    "cremosa"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "equilíbrio": [
+                    "amargo-médio-alto",
+                    "doçura-baixa"
+                ],
+                "retrogosto": [
+                    "amargo-médio-alto",
+                    "frutado-leve"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "médio",
+                    "médio-leve"
+                ],
+                "carbonatação": [
+                    "média-alta"
+                ],
+                "calor": [
+                    "álcool-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "baixa"
+                ],
+                "adstringência": [
+                    "baixa"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "limpo",
+                    "equilibrado"
+                ],
+                "lúpulo": [
+                    "proeminente",
+                    "frutado"
+                ],
+                "fermentação": [
+                    "limpa"
+                ]
+            },
+            "comparação de estilos": [
+                "Menos maltado que a English IPA, mais lupulada que a American Pale Ale.",
+                "Mais amarga que a American Pale Ale, menos amarga que a Double IPA.",
+                "Mais leve que a Double IPA.",
+                "Mais frutada que a English IPA."
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "outros aromáticos": [
+                    "álcool-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-dourado",
+                    "cobre"
+                ],
+                "limpidez": [
+                    "limpa",
+                    "opaca"
+                ],
+                "espuma": [
+                    "alta",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "terroso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "frutado-leve",
+                    "limpo"
+                ],
+                "equilíbrio": [
+                    "amargor-alto",
+                    "doçura-baixa"
+                ],
+                "retrogosto": [
+                    "amargo",
+                    "seco"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "médio",
+                    "médio-leve"
+                ],
+                "carbonatação": [
+                    "média-alta"
+                ],
+                "calor": [
+                    "álcool-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "baixa-opcional"
+                ],
+                "adstringência": [
+                    "baixa"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "limpo",
+                    "equilibrado"
+                ],
+                "lúpulo": [
+                    "proeminente",
+                    "amargo"
+                ],
+                "fermentação": [
+                    "limpa"
+                ]
+            },
+            "comparação de estilos": [
+                "Mais amarga que a English IPA",
+                "Menos maltada que a English IPA",
+                "Mais leve que a Double IPA",
+                "Menos amarga e mais leve que a Double IPA",
+                "Mais amarga que a New England IPA",
+                "Menos frutada que a New England IPA"
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio-baixo",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "outros aromáticos": [
+                    "álcool-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "dourado-claro",
+                    "dourado-escuro",
+                    "âmbar"
+                ],
+                "limpidez": [
+                    "limpo",
+                    "opaco"
+                ],
+                "espuma": [
+                    "alta",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio-baixo",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "equilíbrio": [
+                    "amargo-médio-alto",
+                    "doçura-baixa"
+                ],
+                "retrogosto": [
+                    "amargo",
+                    "frutado"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "corpo-médio"
+                ],
+                "carbonatação": [
+                    "carbonatação-média-alta"
+                ],
+                "calor": [
+                    "calor-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "cremosidade-baixa-opcional"
+                ],
+                "adstringência": [
+                    "leve-adstringência"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "malte-baixo-médio"
+                ],
+                "lúpulo": [
+                    "lúpulo-proeminente"
+                ],
+                "fermentação": [
+                    "limpa"
+                ]
+            },
+            "comparação de estilos": [
+                "Mais amarga que a English IPA",
+                "Menos amarga que a Double IPA",
+                "Mais leve que a Double IPA",
+                "Mais frutada que a English IPA",
+                "Menos maltada que a English IPA",
+                "Mais lupulada que a English IPA"
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "outros aromáticos": [
+                    "álcool-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "dourado-claro",
+                    "dourado-escuro",
+                    "âmbar"
+                ],
+                "limpidez": [
+                    "clara",
+                    "opaca"
+                ],
+                "espuma": [
+                    "alta",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-proeminente",
+                    "cítrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "condimentos",
+                    "frutas-tropicais",
+                    "frutas-caroço",
+                    "frutas-vermelhas",
+                    "melão"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "limpo",
+                    "cereais"
+                ],
+                "ésteres": [
+                    "limpo",
+                    "frutado-leve"
+                ],
+                "equilíbrio": [
+                    "amargo-médio-alto",
+                    "doce-baixo"
+                ],
+                "retrogosto": [
+                    "amargo",
+                    "frutado"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "médio",
+                    "médio-leve"
+                ],
+                "carbonatação": [
+                    "média-alta"
+                ],
+                "calor": [
+                    "álcool-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "baixa"
+                ],
+                "adstringência": [
+                    "baixa",
+                    "leve-adstringência"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "limpo",
+                    "equilibrado"
+                ],
+                "lúpulo": [
+                    "proeminente",
+                    "amargo"
+                ],
+                "fermentação": [
+                    "limpa",
+                    "frutada"
+                ]
+            },
+            "comparação de estilos": [
+                "Menos maltado que a English IPA",
+                "Mais leve que a Double IPA",
+                "Mais amarga que a American Pale Ale",
+                "Mais frutada que a Brown IPA",
+                "Menos amarga que a Brut IPA",
+                "Mais encorpada que a Rye IPA",
+                "Menos frutada que a Belgian IPA",
+                "Mais clara que a Hazy IPA",
+                "Menos amarga que a White IPA"
+            ]
+        }
+    },
+    {
+        "20A. American Porter": {
+            "aroma": {
+                "malte": [
+                    "torrado-alto",
+                    "chocolate-alto",
+                    "caramelo-médio",
+                    "café-médio",
+                    "nozes-baixo",
+                    "biscoito-baixo",
+                    "frutado-baixo-opcional"
+                ],
+                "lúpulo": [
+                    "lúpulo-baixo",
+                    "floral-baixo",
+                    "cítrico-baixo-opcional"
+                ],
+                "ésteres": [
+                    "frutado-baixo-opcional"
+                ],
+                "outros aromáticos": [
+                    "álcool-baixo-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "preto",
+                    "castanho-escuro"
+                ],
+                "limpidez": [
+                    "limpo",
+                    "opaco"
+                ],
+                "espuma": [
+                    "cremoso",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-baixo",
+                    "floral-baixo",
+                    "cítrico-baixo-opcional"
+                ],
+                "malte": [
+                    "torrado-alto",
+                    "chocolate-alto",
+                    "caramelo-médio",
+                    "café-médio",
+                    "nozes-baixo",
+                    "biscoito-baixo"
+                ],
+                "ésteres": [
+                    "frutado-baixo-opcional"
+                ],
+                "equilíbrio": [
+                    "malte-proeminente",
+                    "doce-médio",
+                    "amargo-baixo-médio"
+                ],
+                "retrogosto": [
+                    "torrado-médio",
+                    "doce-médio"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "corpo-médio",
+                    "cremoso"
+                ],
+                "carbonatação": [
+                    "carbonatação-média"
+                ],
+                "calor": [
+                    "álcool-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "cremosidade-média"
+                ],
+                "adstringência": [
+                    "leve-adstringência"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "malte-proeminente",
+                    "torrado",
+                    "chocolate"
+                ],
+                "lúpulo": [
+                    "lúpulo-baixo"
+                ],
+                "fermentação": [
+                    "limpo"
+                ]
+            },
+            "comparação de estilos": [
+                "Menos amargo que a American Stout",
+                "Mais leve que a American Stout",
+                "Mais maltado que a Brown Porter",
+                "Menos doce que a Brown Porter",
+                "Mais encorpado que a American Brown Ale"
+            ]
+        }
+    },
+    {
+        "20A. American Porter": {
+            "aroma": {
+                "malte": [
+                    "malte-torrado-médio-alto",
+                    "chocolate-médio",
+                    "caramelo-baixo",
+                    "café-baixo-médio",
+                    "nozes-baixo-opcional",
+                    "cereal-baixo-opcional"
+                ],
+                "lúpulo": [
+                    "lúpulo-baixo",
+                    "floral-baixo-opcional",
+                    "cítrico-baixo-opcional"
+                ],
+                "ésteres": [
+                    "frutado-baixo-opcional"
+                ],
+                "outros aromáticos": [
+                    "álcool-baixo-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "preto",
+                    "castanho-escuro"
+                ],
+                "limpidez": [
+                    "limpo",
+                    "opaco"
+                ],
+                "espuma": [
+                    "cremoso",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-baixo",
+                    "floral-baixo-opcional",
+                    "cítrico-baixo-opcional"
+                ],
+                "malte": [
+                    "malte-torrado-médio-alto",
+                    "chocolate-médio",
+                    "caramelo-baixo",
+                    "café-baixo-médio",
+                    "nozes-baixo-opcional"
+                ],
+                "ésteres": [
+                    "frutado-baixo-opcional"
+                ],
+                "equilíbrio": [
+                    "malte-dominante"
+                ],
+                "retrogosto": [
+                    "amargo-médio",
+                    "doce-baixo-opcional"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "corpo-médio",
+                    "corpo-cheio"
+                ],
+                "carbonatação": [
+                    "carbonatação-média"
+                ],
+                "calor": [
+                    "calor-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "cremosidade-média"
+                ],
+                "adstringência": [
+                    "leve-adstringência"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "malte-torrado",
+                    "malte-chocolate"
+                ],
+                "lúpulo": [
+                    "lúpulo-baixo"
+                ],
+                "fermentação": [
+                    "limpo"
+                ]
+            },
+            "comparação de estilos": [
+                "Menos amarga que a Brown Porter.",
+                "Mais encorpada que a American Stout.",
+                "Mais maltada que a American Brown Ale."
+            ]
+        }
+    },
+    {
+        "20A. American Porter": {
+            "aroma": {
+                "malte": [
+                    "malte-torrado-médio-alto",
+                    "chocolate-médio",
+                    "caramelo-baixo",
+                    "café-médio-baixo",
+                    "nozes-baixo",
+                    "biscoito-baixo"
+                ],
+                "lúpulo": [
+                    "lúpulo-baixo",
+                    "floral-baixo",
+                    "cítrico-baixo",
+                    "resinoso-baixo"
+                ],
+                "ésteres": [
+                    "frutado-baixo",
+                    "limpo"
+                ],
+                "outros aromáticos": [
+                    "álcool-baixo-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "preto",
+                    "castanho-escuro"
+                ],
+                "limpidez": [
+                    "opaco"
+                ],
+                "espuma": [
+                    "cremosidade-média",
+                    "persistência-média"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-baixo",
+                    "floral-baixo",
+                    "cítrico-baixo",
+                    "resinoso-baixo"
+                ],
+                "malte": [
+                    "malte-torrado-médio-alto",
+                    "chocolate-médio",
+                    "caramelo-baixo",
+                    "café-médio-baixo",
+                    "nozes-baixo",
+                    "biscoito-baixo"
+                ],
+                "ésteres": [
+                    "frutado-baixo",
+                    "limpo"
+                ],
+                "equilíbrio": [
+                    "equilibrado",
+                    "malte-dominante"
+                ],
+                "retrogosto": [
+                    "torrado-médio",
+                    "doçura-baixa"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "corpo-médio",
+                    "corpo-médio-alto"
+                ],
+                "carbonatação": [
+                    "carbonatação-média"
+                ],
+                "calor": [
+                    "calor-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "cremosidade-média"
+                ],
+                "adstringência": [
+                    "leve-adstringência"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "malte-dominante",
+                    "torrado-médio-alto"
+                ],
+                "lúpulo": [
+                    "lúpulo-baixo"
+                ],
+                "fermentação": [
+                    "limpo"
+                ]
+            },
+            "comparação de estilos": [
+                "Mais maltado e menos amargo que a American Stout.",
+                "Mais leve e menos torrado que a Brown Porter.",
+                "Menos amargo que a Imperial Porter.",
+                "Mais encorpado que a American Brown Ale."
+            ]
+        }
+    },
+    {
+        "21B. Specialty IPA: Belgian IPA": {
+            "aroma": {
+                "malte": [
+                    "malte-baixo-médio",
+                    "caramelo-baixo-opcional",
+                    "frutado-baixo-opcional"
+                ],
+                "lúpulo": [
+                    "lúpulo-médio",
+                    "cítrico",
+                    "floral",
+                    "resinoso"
+                ],
+                "ésteres": [
+                    "frutado-médio",
+                    "fenólico-baixo-opcional"
+                ],
+                "outros aromáticos": [
+                    "álcool-baixo-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-claro-a-escuro"
+                ],
+                "limpidez": [
+                    "limpo-a-levemente-turbido"
+                ],
+                "espuma": [
+                    "espuma-média"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-médio",
+                    "cítrico",
+                    "floral",
+                    "resinoso"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "caramelo-baixo-opcional",
+                    "frutado-baixo-opcional"
+                ],
+                "ésteres": [
+                    "frutado-médio",
+                    "fenólico-baixo-opcional"
+                ],
+                "equilíbrio": [
+                    "equilíbrio-médio"
+                ],
+                "retrogosto": [
+                    "retrogosto-médio"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "corpo-médio"
+                ],
+                "carbonatação": [
+                    "carbonatação-média"
+                ],
+                "calor": [
+                    "calor-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "cremosidade-baixa-opcional"
+                ],
+                "adstringência": [
+                    "leve-adstringência"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "malte-médio"
+                ],
+                "lúpulo": [
+                    "lúpulo-médio"
+                ],
+                "fermentação": [
+                    "fermentação-média"
+                ]
+            },
+            "comparação de estilos": [
+                "Mais frutada e menos amarga que a American IPA.",
+                "Mais complexa e menos amarga que a English IPA.",
+                "Mais doce e menos amarga que a American Pale Ale.",
+                "Mais frutada e menos amarga que a Belgian IPA.",
+                "Menos amarga que a Double IPA."
+            ]
+        }
+    },
+    {
+        "21B. Specialty IPA: Belgian IPA": {
+            "aroma": {
+                "malte": [],
+                "lúpulo": [
+                    "lúpulo-moderado-alto",
+                    "cítrico",
+                    "frutas-caroço",
+                    "tropical",
+                    "resinoso",
+                    "floral"
+                ],
+                "ésteres": [
+                    "éster-frutado-moderado-alto",
+                    "frutas-caroço",
+                    "frutas-tropicais",
+                    "frutas-cítricas"
+                ],
+                "outros-aromáticos": [
+                    "especiarias",
+                    "fenolico-baixo-moderado"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-claro",
+                    "cobre"
+                ],
+                "limpidez": [
+                    "limpa",
+                    "opaca"
+                ],
+                "espuma": [
+                    "persistente",
+                    "cremosa"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-moderado-alto",
+                    "cítrico",
+                    "frutas-caroço",
+                    "tropical",
+                    "resinoso",
+                    "floral"
+                ],
+                "malte": [
+                    "malte-médio",
+                    "caramelo-baixo-médio",
+                    "doce-baixo-médio"
+                ],
+                "ésteres": [
+                    "éster-frutado-moderado-alto",
+                    "frutas-caroço",
+                    "frutas-tropicais",
+                    "frutas-cítricas"
+                ],
+                "equilíbrio": [
+                    "equilíbrio-malte-lúpulo",
+                    "amargor-moderado-alto"
+                ],
+                "retrogosto": [
+                    "amargo-moderado",
+                    "doce-baixo"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "corpo-médio",
+                    "corpo-leve"
+                ],
+                "carbonatação": [
+                    "carbonatação-moderada-alta"
+                ],
+                "calor": [
+                    "álcool-médio"
+                ],
+                "cremosidade": [],
+                "adstringência": []
+            },
+            "impressão geral": {
+                "malte": [
+                    "malte-médio",
+                    "doce-baixo-médio"
+                ],
+                "lúpulo": [
+                    "lúpulo-moderado-alto"
+                ],
+                "fermentação": [
+                    "fermentação-complexa",
+                    "éster-frutado-moderado-alto",
+                    "fenolico-baixo-moderado"
+                ]
+            },
+            "comparação de estilos": [
+                "Mais frutada e complexa que a American IPA.",
+                "Menos amarga que a American IPA.",
+                "Mais doce e com mais ésteres que a American IPA.",
+                "Menos lupulada que a Belgian IPA.",
+                "Mais leve que a Belgian IPA."
+            ]
+        }
+    },
+    {
+        "21B. Specialty IPA: Belgian IPA": {
+            "aroma": {
+                "malte": [
+                    "malte-leve-baixo",
+                    "caramelo-baixo-médio",
+                    "torrado-baixo-opcional"
+                ],
+                "lúpulo": [
+                    "lúpulo-moderado",
+                    "cítrico",
+                    "floral",
+                    "resinoso",
+                    "terroso",
+                    "especiarias",
+                    "frutas-tropicais"
+                ],
+                "ésteres": [
+                    "éster-frutado-moderado-alto",
+                    "frutas-caroço",
+                    "frutas-cítricas",
+                    "banana"
+                ],
+                "outros aromáticos": [
+                    "fenol-baixo-médio",
+                    "especiarias",
+                    "pimenta",
+                    "cravo"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-dourado",
+                    "cobre"
+                ],
+                "limpidez": [
+                    "limpo",
+                    "opaco"
+                ],
+                "espuma": [
+                    "espuma-média-alta",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-moderado",
+                    "cítrico",
+                    "floral",
+                    "resinoso",
+                    "terroso",
+                    "especiarias",
+                    "frutas-tropicais"
+                ],
+                "malte": [
+                    "malte-leve-baixo",
+                    "caramelo-baixo-médio",
+                    "torrado-baixo-opcional"
+                ],
+                "ésteres": [
+                    "éster-frutado-moderado-alto",
+                    "frutas-caroço",
+                    "frutas-cítricas",
+                    "banana"
+                ],
+                "equilíbrio": [
+                    "equilíbrio-malteado",
+                    "equilíbrio-lúpulo"
+                ],
+                "retrogosto": [
+                    "retrogosto-médio",
+                    "doce",
+                    "amargo"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "corpo-médio",
+                    "corpo-leve-opcional"
+                ],
+                "carbonatação": [
+                    "carbonatação-média-alta"
+                ],
+                "calor": [
+                    "calor-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "cremosidade-média"
+                ],
+                "adstringência": [
+                    "leve-adstringência"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "malte-médio",
+                    "doce"
+                ],
+                "lúpulo": [
+                    "lúpulo-moderado",
+                    "frutado"
+                ],
+                "fermentação": [
+                    "fermentação-moderada",
+                    "éster-frutado"
+                ]
+            },
+            "comparação de estilos": [
+                "Mais frutada e com ésteres mais proeminentes que a American IPA.",
+                "Menos amarga que a American IPA.",
+                "Mais complexa e com notas de especiarias que a American Pale Ale.",
+                "Mais doce e com maior presença de malte que a English IPA.",
+                "Mais leve e com menos corpo que a Double IPA.",
+                "Mais aromática e com maior diversidade de lúpulos que a Belgian IPA."
+            ]
+        }
+    },
+    {
+        "21B. Specialty IPA: Belgian IPA": {
+            "aroma": {
+                "malte": [
+                    "malte-baixo-médio"
+                ],
+                "lúpulo": [
+                    "lúpulo-baixo-médio",
+                    "cítrico",
+                    "floral",
+                    "terroso"
+                ],
+                "ésteres": [
+                    "éster-frutável-médio",
+                    "frutas-caroço",
+                    "frutas-tropicais",
+                    "banana",
+                    "pêra"
+                ],
+                "outros-aromáticos": [
+                    "especiarias",
+                    "fenolico"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-claro",
+                    "cobre"
+                ],
+                "limpidez": [
+                    "limpa",
+                    "ligeiramente-turva"
+                ],
+                "espuma": [
+                    "espuma-média",
+                    "persistente"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-baixo-médio",
+                    "cítrico",
+                    "floral",
+                    "terroso"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "caramelo-baixo-médio"
+                ],
+                "ésteres": [
+                    "éster-frutável-médio",
+                    "frutas-caroço",
+                    "frutas-tropicais",
+                    "banana",
+                    "pêra"
+                ],
+                "equilíbrio": [
+                    "equilibrado",
+                    "mais-malteado"
+                ],
+                "retrogosto": [
+                    "retrogosto-médio",
+                    "doce",
+                    "amargo"
+                ]
+            },
+            "sensação-de-boca": {
+                "corpo": [
+                    "corpo-médio"
+                ],
+                "carbonatação": [
+                    "carbonatação-média-alta"
+                ],
+                "calor": [
+                    "calor-baixo-opcional"
+                ],
+                "cremosidade": [
+                    "cremosidade-baixa"
+                ],
+                "adstringência": [
+                    "leve-adstringência"
+                ]
+            },
+            "impressão-geral": {
+                "malte": [
+                    "malte-médio"
+                ],
+                "lúpulo": [
+                    "lúpulo-baixo-médio"
+                ],
+                "fermentação": [
+                    "fermentação-complexa"
+                ]
+            },
+            "comparação-de-estilos": [
+                "Mais frutada e mais complexa que a American IPA.",
+                "Menos amarga que a American IPA.",
+                "Mais doce que a American IPA.",
+                "Mais maltada que a American IPA.",
+                "Menos frutada que a Belgian IPA.",
+                "Mais amarga que a Belgian Dubbel.",
+                "Mais leve que a Belgian Dubbel.",
+                "Menos doce que a Belgian Dubbel."
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "aroma": {
+                "malte": [],
+                "lúpulo": [
+                    "lúpulo-moderado-alto",
+                    "citrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "tropical",
+                    "melão",
+                    "frutas-caroço",
+                    "cítrico"
+                ],
+                "ésteres": [
+                    "éster-frutável-baixo-médio"
+                ],
+                "outros-aromáticos": [
+                    "caramelo-baixo-opcional",
+                    "mel-baixo-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-claro",
+                    "âmbar-escuro"
+                ],
+                "limpidez": [
+                    "limpa",
+                    "ligeiramente-turva-opcional"
+                ],
+                "espuma": [
+                    "persistente",
+                    "cremosa"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-moderado-alto",
+                    "citrico",
+                    "floral",
+                    "pinho",
+                    "resinoso",
+                    "tropical",
+                    "melão",
+                    "frutas-caroço",
+                    "cítrico"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "caramelo-baixo-opcional"
+                ],
+                "ésteres": [
+                    "éster-frutável-baixo-médio"
+                ],
+                "equilíbrio": [
+                    "amargor-médio-alto",
+                    "equilíbrio-lúpulo-malte"
+                ],
+                "retrogosto": [
+                    "amargo",
+                    "lúpulo"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "corpo-médio"
+                ],
+                "carbonatação": [
+                    "carbonatação-média-alta"
+                ],
+                "calor": [],
+                "cremosidade": [],
+                "adstringência": [
+                    "leve-adstringência"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "malte-médio"
+                ],
+                "lúpulo": [
+                    "lúpulo-proeminente"
+                ],
+                "fermentação": [
+                    "fermentação-limpida"
+                ]
+            },
+            "comparação de estilos": [
+                "Mais amarga e mais leve que a American Pale Ale.",
+                "Mais amarga que a English IPA.",
+                "Mais lupulada que a Brown IPA.",
+                "Menos maltada que a Double IPA.",
+                "Mais amarga que a Belgian IPA.",
+                "Menos amarga que a Rye IPA.",
+                "Mais lupulada que a White IPA.",
+                "Mais lupulada que a Hazy IPA."
+            ]
+        }
+    },
+    {
+        "15A. Irish Red Ale": {
+            "aroma": {
+                "malte": [
+                    "caramelo-baixo-médio",
+                    "torrado-baixo",
+                    "cereal-baixo"
+                ],
+                "lúpulo": [
+                    "baixo"
+                ],
+                "ésteres": [
+                    "frutado-baixo"
+                ],
+                "outros aromáticos": [
+                    "leve-doçura",
+                    "leve-mel"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "vermelho-cobre",
+                    "âmbar"
+                ],
+                "limpidez": [
+                    "clara"
+                ],
+                "espuma": [
+                    "cremosidade-média",
+                    "persistência-média"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "baixo"
+                ],
+                "malte": [
+                    "caramelo-baixo-médio",
+                    "torrado-baixo",
+                    "cereal-baixo"
+                ],
+                "ésteres": [
+                    "frutado-baixo"
+                ],
+                "equilíbrio": [
+                    "malte-moderado",
+                    "doçura-moderada"
+                ],
+                "retrogosto": [
+                    "doce-médio",
+                    "leve-amargo"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "médio"
+                ],
+                "carbonatação": [
+                    "média"
+                ],
+                "calor": [
+                    "baixo"
+                ],
+                "cremosidade": [
+                    "média"
+                ],
+                "adstringência": [
+                    "baixa"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "caramelo-médio",
+                    "doce-médio"
+                ],
+                "lúpulo": [
+                    "baixo"
+                ],
+                "fermentação": [
+                    "limpa"
+                ]
+            },
+            "comparação de estilos": [
+                "Menos amarga que a American Amber Ale.",
+                "Mais maltada que a American Amber Ale.",
+                "Mais leve que a Brown Ale.",
+                "Menos complexa que a Brown Ale.",
+                "Mais doce que a English Bitter.",
+                "Menos frutada que a English Bitter."
+            ]
+        }
+    },
+    {
+        "15A. Irish Red Ale": {
+            "aroma": {
+                "malte": [
+                    "caramelo-baixo-médio",
+                    "toffee-baixo-médio",
+                    "cereal-baixo-médio"
+                ],
+                "lúpulo": [
+                    "baixo"
+                ],
+                "ésteres": [
+                    "frutado-baixo"
+                ],
+                "outros aromáticos": [
+                    "leve-torrado",
+                    "leve-doce"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "cobre",
+                    "vermelho"
+                ],
+                "limpidez": [
+                    "clara"
+                ],
+                "espuma": [
+                    "cremosidade-baixa-média",
+                    "bege"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "baixo"
+                ],
+                "malte": [
+                    "caramelo-baixo-médio",
+                    "toffee-baixo-médio",
+                    "cereal-baixo-médio",
+                    "leve-torrado"
+                ],
+                "ésteres": [
+                    "frutado-baixo"
+                ],
+                "equilíbrio": [
+                    "malte-dominante"
+                ],
+                "retrogosto": [
+                    "doce-baixo",
+                    "torrado-baixo"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "médio"
+                ],
+                "carbonatação": [
+                    "média"
+                ],
+                "calor": [
+                    "baixo"
+                ],
+                "cremosidade": [
+                    "média"
+                ],
+                "adstringência": [
+                    "baixa"
+                ]
+            },
+            "impressão geral": {
+                "malte": [
+                    "malte-dominante"
+                ],
+                "lúpulo": [
+                    "baixo"
+                ],
+                "fermentação": [
+                    "limpa"
+                ]
+            },
+            "comparação de estilos": [
+                "Menos amarga que a American Amber Ale.",
+                "Mais maltada que a American Amber Ale.",
+                "Menos intensa que a Brown Ale.",
+                "Mais leve que a Brown Ale.",
+                "Menos doce que a Sweet Stout.",
+                "Mais seca que a Sweet Stout."
+            ]
+        }
+    },
+    {
+        "15A. Irish Red Ale": {
+            "aroma": {
+                "malte": [
+                    "malte-baixo-moderado",
+                    "caramelo",
+                    "toffee",
+                    "pão",
+                    "tostado"
+                ],
+                "lúpulo": [
+                    "lúpulo-baixo",
+                    "terroso",
+                    "floral"
+                ],
+                "ésteres": [
+                    "ésteres-baixo-opcional"
+                ],
+                "outros_aromáticos": [
+                    "diacetil-baixo-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "âmbar-médio",
+                    "cobre",
+                    "vermelho"
+                ],
+                "limpidez": [
+                    "limpo"
+                ],
+                "espuma": [
+                    "espuma-baixa-média",
+                    "cremosa",
+                    "branca"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-baixo",
+                    "terroso",
+                    "floral"
+                ],
+                "malte": [
+                    "malte-moderado",
+                    "caramelo",
+                    "toffee",
+                    "pão",
+                    "tostado"
+                ],
+                "ésteres": [
+                    "ésteres-baixo-opcional"
+                ],
+                "equilíbrio": [
+                    "equilíbrio-maltado"
+                ],
+                "retrogosto": [
+                    "retrogosto-seco"
+                ]
+            },
+            "sensação_de_boca": {
+                "corpo": [
+                    "corpo-médio-leve"
+                ],
+                "carbonatação": [
+                    "carbonatação-média"
+                ],
+                "calor": [],
+                "cremosidade": [],
+                "adstringência": []
+            },
+            "impressão_geral": {
+                "malte": [
+                    "malte-moderado",
+                    "caramelo",
+                    "toffee",
+                    "pão",
+                    "tostado"
+                ],
+                "lupulo": [
+                    "lúpulo-baixo",
+                    "terroso",
+                    "floral"
+                ],
+                "fermentação": [
+                    "ésteres-baixo-opcional",
+                    "diacetil-baixo-opcional"
+                ]
+            },
+            "comparação_de_estilos": [
+                "Menos amarga e menos lupulada que a American Amber Ale.",
+                "Mais maltada e menos amarga que a English Bitter.",
+                "Menos encorpada e menos alcoólica que a Scottish Export.",
+                "Menos amarga e menos alcoólica que a American IPA."
+            ]
+        }
+    },
+    {
+        "21B. Specialty IPA: Belgian IPA": {
+            "aroma": {
+                "malte": [
+                    "malte-baixo-médio",
+                    "malte-baixo"
+                ],
+                "lúpulo": [
+                    "lúpulo-baixo-médio",
+                    "lúpulo-baixo",
+                    "lúpulo-americano",
+                    "lúpulo-novo-mundo",
+                    "frutas-tropicais",
+                    "melão",
+                    "frutas-caroço",
+                    "cítrico",
+                    "pinho"
+                ],
+                "ésteres": [
+                    "ésteres-moderado-alto",
+                    "frutas-caroço",
+                    "banana",
+                    "frutas-tropicais"
+                ],
+                "outros aromáticos": [
+                    "especiarias",
+                    "pimenta",
+                    "cravo",
+                    "álcool-leve-opcional"
+                ]
+            },
+            "aparência": {
+                "cor": [
+                    "dourado-claro",
+                    "âmbar"
+                ],
+                "limpidez": [
+                    "limpo",
+                    "ligeiramente-turvo"
+                ],
+                "espuma": [
+                    "espuma-média",
+                    "espuma-branca",
+                    "espuma-baixa-retencao"
+                ]
+            },
+            "sabor": {
+                "lúpulo": [
+                    "lúpulo-moderado-alto",
+                    "lúpulo-americano",
+                    "lúpulo-novo-mundo",
+                    "frutas-tropicais",
+                    "melão",
+                    "frutas-caroço",
+                    "cítrico",
+                    "pinho"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "malte-baixo"
+                ],
+                "ésteres": [
+                    "ésteres-moderado-alto",
+                    "frutas-caroço",
+                    "banana",
+                    "frutas-tropicais"
+                ],
+                "equilíbrio": [
+                    "amargor-médio-alto",
+                    "amargor-médio"
+                ],
+                "retrogosto": [
+                    "seco",
+                    "amargo"
+                ]
+            },
+            "sensação de boca": {
+                "corpo": [
+                    "corpo-médio-leve",
+                    "corpo-médio"
+                ],
+                "carbonatação": [
+                    "carbonatação-média-alta",
+                    "carbonatação-alta"
+                ],
+                "calor": [
+                    "álcool-leve-opcional"
+                ],
+                "cremosidade": [],
+                "adstringência": []
+            },
+            "impressão geral": {
+                "malte": [
+                    "malte-baixo-médio",
+                    "malte-baixo"
+                ],
+                "lupulo": [
+                    "lúpulo-moderado-alto",
+                    "lúpulo-americano",
+                    "lúpulo-novo-mundo",
+                    "frutas-tropicais",
+                    "melão",
+                    "frutas-caroço",
+                    "cítrico",
+                    "pinho"
+                ],
+                "fermentação": [
+                    "ésteres-moderado-alto",
+                    "frutas-caroço",
+                    "banana",
+                    "frutas-tropicais",
+                    "especiarias",
+                    "pimenta",
+                    "cravo"
+                ]
+            },
+            "comparação de estilos": [
+                "Mais lupulada e amarga que uma Belgian Pale Ale.",
+                "Menos maltada e mais seca que uma Belgian Tripel.",
+                "Mais leve e menos alcoólica que uma Belgian Golden Strong Ale.",
+                "Mais seca e menos maltada que uma American IPA.",
+                "Mais lupulada e amarga que uma Belgian Blonde Ale.",
+                "Mais seca e menos maltada que uma Belgian Dubbel.",
+                "Mais seca e menos maltada que uma Belgian Dark Strong Ale.",
+                "Mais seca e menos maltada que uma Belgian Strong Ale.",
+                "Mais seca e menos maltada que uma Belgian Specialty Ale."
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "Aroma": {
+                "malte": [
+                    "malte-baixo"
+                ],
+                "lúpulo": [
+                    "lúpulo-moderado-alto",
+                    "lúpulo-americano",
+                    "lúpulo-novo-mundo",
+                    "tropical",
+                    "melão",
+                    "cítrico",
+                    "pinho",
+                    "resinoso",
+                    "frutas-de-carosso",
+                    "frutas-de-carosso-opcional",
+                    "frutas-de-baga",
+                    "frutas-de-baga-opcional"
+                ],
+                "ésteres": [
+                    "ésteres-baixo-opcional"
+                ],
+                "outros aromáticos": [
+                    "álcool-leve-opcional"
+                ]
+            },
+            "Aparência": {
+                "cor": [
+                    "cor-dourado-claro",
+                    "cor-âmbar-claro"
+                ],
+                "limpidez": [
+                    "limpidez-límpida",
+                    "limpidez-levemente-turva"
+                ],
+                "espuma": [
+                    "espuma-branca",
+                    "espuma-persistente"
+                ]
+            },
+            "Sabor": {
+                "lúpulo": [
+                    "lúpulo-moderado-alto",
+                    "lúpulo-americano",
+                    "lúpulo-novo-mundo",
+                    "tropical",
+                    "melão",
+                    "cítrico",
+                    "pinho",
+                    "resinoso",
+                    "frutas-de-carosso",
+                    "frutas-de-carosso-opcional",
+                    "frutas-de-baga",
+                    "frutas-de-baga-opcional"
+                ],
+                "malte": [
+                    "malte-baixo",
+                    "malte-pão",
+                    "malte-tostado",
+                    "malte-biscoito",
+                    "malte-caramelo-baixo-opcional"
+                ],
+                "ésteres": [
+                    "ésteres-baixo-opcional"
+                ],
+                "equilíbrio": [
+                    "equilíbrio-amargo"
+                ],
+                "retrogosto": [
+                    "retrogosto-seco"
+                ]
+            },
+            "Sensação de Boca": {
+                "corpo": [
+                    "corpo-médio-leve",
+                    "corpo-médio"
+                ],
+                "carbonatação": [
+                    "carbonatação-média",
+                    "carbonatação-média-alta"
+                ],
+                "calor": [
+                    "álcool-leve-opcional"
+                ],
+                "cremosidade": [],
+                "adstringência": [
+                    "adstringência-baixa-opcional"
+                ]
+            },
+            "Impressão Geral": {
+                "malte": [
+                    "malte-baixo"
+                ],
+                "lúpulo": [
+                    "lúpulo-moderado-alto"
+                ],
+                "fermentação": [
+                    "fermentação-limpa"
+                ]
+            },
+            "Comparação de Estilos": [
+                "Mais amarga e com menos caráter de malte que a English IPA.",
+                "Menos amarga e mais leve que a Double IPA.",
+                "Mais lúpulo e menos malte que a American Pale Ale."
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "Aroma": {
+                "malte": [
+                    "malte-baixo"
+                ],
+                "lúpulo": [
+                    "lúpulo-moderado-alto",
+                    "lúpulo-americano",
+                    "lúpulo-novo-mundo",
+                    "tropical",
+                    "melão",
+                    "frutas-caroço",
+                    "cítrico",
+                    "pinho"
+                ],
+                "ésteres": [
+                    "ésteres-baixo-opcional"
+                ],
+                "outros aromáticos": [
+                    "álcool-baixo-opcional"
+                ]
+            },
+            "Aparência": {
+                "cor": [
+                    "cor-dourado",
+                    "cor-âmbar"
+                ],
+                "limpidez": [
+                    "limpidez-límpida"
+                ],
+                "espuma": [
+                    "espuma-branca",
+                    "espuma-persistente"
+                ]
+            },
+            "Sabor": {
+                "lúpulo": [
+                    "lúpulo-moderado-alto",
+                    "lúpulo-americano",
+                    "lúpulo-novo-mundo",
+                    "tropical",
+                    "melão",
+                    "frutas-caroço",
+                    "cítrico",
+                    "pinho"
+                ],
+                "malte": [
+                    "malte-baixo"
+                ],
+                "ésteres": [
+                    "ésteres-baixo-opcional"
+                ],
+                "equilíbrio": [
+                    "equilíbrio-amargo"
+                ],
+                "retrogosto": [
+                    "retrogosto-seco"
+                ]
+            },
+            "Sensação de Boca": {
+                "corpo": [
+                    "corpo-médio-leve",
+                    "corpo-médio"
+                ],
+                "carbonatação": [
+                    "carbonatação-média",
+                    "carbonatação-alta"
+                ],
+                "calor": [
+                    "álcool-leve-opcional"
+                ],
+                "cremosidade": [],
+                "adstringência": []
+            },
+            "Impressão Geral": {
+                "malte": [
+                    "malte-baixo"
+                ],
+                "lúpulo": [
+                    "lúpulo-moderado-alto"
+                ],
+                "fermentação": [
+                    "fermentação-limpa"
+                ]
+            },
+            "Comparação de Estilos": [
+                "Mais amarga e lupulada que a American Pale Ale.",
+                "Menos maltada e mais lupulada que a English IPA.",
+                "Menos amarga e mais leve que a Double IPA.",
+                "Mais clara e menos maltada que a Brown IPA.",
+                "Menos seca e mais amarga que a Brut IPA.",
+                "Menos picante e mais lupulada que a Rye IPA.",
+                "Menos frutada e mais amarga que a Belgian IPA.",
+                "Menos turva e mais amarga que a Hazy IPA.",
+                "Menos condimentada e mais amarga que a White IPA."
+            ]
+        }
+    },
+    {
+        "21A. American IPA": {
+            "Aroma": {
+                "malte": [
+                    "malte-baixo-médio",
+                    "malte-limpo",
+                    "malte-grãos",
+                    "malte-biscoito",
+                    "malte-tostado-leve"
+                ],
+                "lúpulo": [
+                    "lúpulo-moderado-alto",
+                    "lúpulo-americano",
+                    "lúpulo-novo-mundo",
+                    "tropical",
+                    "melão",
+                    "frutas-caroço",
+                    "cítrico",
+                    "pinho",
+                    "lúpulo-europa-continental",
+                    "condimentado",
+                    "herbal",
+                    "floral"
+                ],
+                "ésteres": [
+                    "ésteres-baixo"
+                ],
+                "outros aromáticos": []
+            },
+            "Aparência": {
+                "cor": [
+                    "cor-dourado",
+                    "cor-âmbar-claro"
+                ],
+                "limpidez": [
+                    "limpidez-límpido",
+                    "limpidez-levemente-turvo"
+                ],
+                "espuma": [
+                    "espuma-branca",
+                    "espuma-boa-formação",
+                    "espuma-retentiva"
+                ]
+            },
+            "Sabor": {
+                "lúpulo": [
+                    "lúpulo-moderado-alto",
+                    "lúpulo-americano",
+                    "lúpulo-novo-mundo",
+                    "tropical",
+                    "melão",
+                    "frutas-caroço",
+                    "cítrico",
+                    "pinho",
+                    "lúpulo-europa-continental",
+                    "condimentado",
+                    "herbal",
+                    "floral"
+                ],
+                "malte": [
+                    "malte-baixo-médio",
+                    "malte-limpo",
+                    "malte-grãos",
+                    "malte-biscoito",
+                    "malte-tostado-leve"
+                ],
+                "ésteres": [
+                    "ésteres-baixo"
+                ],
+                "equilíbrio": [
+                    "equilíbrio-amargo"
+                ],
+                "retrogosto": [
+                    "retrogosto-seco",
+                    "retrogosto-amargo"
+                ]
+            },
+            "Sensação de Boca": {
+                "corpo": [
+                    "corpo-médio-leve",
+                    "corpo-médio"
+                ],
+                "carbonatação": [
+                    "carbonatação-média",
+                    "carbonatação-alta"
+                ],
+                "calor": [
+                    "calor-leve-opcional"
+                ],
+                "cremosidade": [],
+                "adstringência": [
+                    "adstringência-leve-opcional"
+                ]
+            },
+            "Impressão Geral": {
+                "malte": [
+                    "malte-baixo"
+                ],
+                "lúpulo": [
+                    "lúpulo-pronunciado"
+                ],
+                "fermentação": [
+                    "fermentação-limpa"
+                ]
+            },
+            "Comparação de Estilos": [
+                "Mais amarga e lupulada que a American Pale Ale, mas menos intensa que a Double IPA.",
+                "Mais clara e menos maltada que a English IPA.",
+                "Menos amarga e mais leve que a Double IPA.",
+                "Mais amarga e lupulada que a Belgian IPA.",
+                "Menos maltada e mais clara que a Brown IPA.",
+                "Menos seca e mais maltada que a Brut IPA.",
+                "Menos picante e mais clara que a Rye IPA.",
+                "Menos turva e mais clara que a Hazy IPA.",
+                "Menos condimentada e mais clara que a White IPA."
+            ]
+        }
+    }
+]
